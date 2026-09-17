@@ -1,29 +1,30 @@
-﻿indicador_en,indicador_pt,2021,2022,2023,2024,2025
-Passenger revenue,Transporte de passageiros,8811044,14595579,17362895.54013,18123135,20231002
-Other revenue,Outras receitas,1164685,1352488,1331680.6332399999,1403073.39595,1642667
-Total Operating revenue ,Total receita líquida,9975729,15948067,18694576.17337,19526208.39595,21873669
-Aircraft fuel,Combustível de aviação ,-3257223,-6561288,-5890485,-5583503,-5710291
-"Salaries, wages and benefits",Salários e benefícios,-1748441,-1954568,-2397252.88889,-2722872,-2611592
-Other rent & ACMI,Outros aluguéis & ACMI,0,0,0,-268060,-586563
-Landing fees,Tarifas aeroportuárias ,-677653,-911246,-1056906.24322,-1074818,-1257293
-Traffic and customer servicing,Prestação de serviços de tráfego,-389349,-641900,-807563,-872481,-956931
-Sales and marketing,Comerciais e marketing,-404137,-699003,-779264,-889224,-890983
-Maintenance materials and repairs,Material de manutenção e reparo ,-546647,-592146.39813,-686199.6592266667,-789222,-781187
-Depreciation and amortization,Depreciação e amortização ,-1544333,-2094448,-2314252.06463,-2563982,-3013375
-Share based incentive,Incentivo baseado em ações ,0,0,0,0,0
-Other operating expenses,"Outras despesas operacionais, líquidas",-1360946.988919986,-1357804.5508161911,-1862741.585579809,-1254354.6402,-2424265
-Total Operating expenses,Total custos dos serviços prestados,-9928729.988919986,-14812403.948946191,-15794664.441546476,-16018516.6402,-18232480
-Income (loss) for the period,Lucro / (prejuízo) operacional,46999.01108001359,1135663.051053809,2899911.7318235245,3507691.7557500005,3641189
-EBIT Margin ,Margem EBIT,0.004711335991586538,0.07121007524321342,0.1551204854782631,0.17964018843912077,0.16646448293608174
-Financial income ,Receita financeira ,154280,277289,220141,239058,904084
-Financial expense ,Despesas financeiras ,-3633184,-4558144.994821067,-5363540.412719069,-4741167.0452,-8779222
-Derivative financial instruments ,Instrumentos financeiros derivativos ,34971,438190.31671,19858.326640000043,-119306.22007999988,-20023
-"Foreign currency exchange, net ","Variações monetárias e cambiais, líquida ",-1365595,1327353.2574036173,1562831.662171112,-7160074.450449999,4029320
-Related parties result,"Resultado de transações relacionadas, net",-5173.39815,0,0,0,0
-Loss before income tax,Lucro (prejuízo) antes do IR e contribuição social,-4767702.387069986,-1379649.3696536408,-660797.6920844326,-8273797.959979998,-224651
-Income tax and social contribution,Imposto de renda e contribuição social,0,1,0,-723,0
-Deferred income tax and social contribution,Imposto de renda e contribuição social diferidos ,0,0,-39526,39526,0
-Income (loss) for the period,Prejuízo líquido do exercício,-4767702.387069986,-1379648.3696536408,-700323.6920844326,-8234994.959979998,-224651
-Net Margin,Margem líquida,-0.4779302231516099,-0.08650881449479995,-0.037461330259095565,-0.4217406059072916,-0.010270384908905772
-EBITDA,EBITDA,1591332.0110800136,3230111.051053809,5214163.796453524,6071673.7557500005,6654564
-Margem EBITDA,Margem EBITDA,0.15952037300532257,0.20253934543000157,0.27891318573357027,0.31094996184765433,0.3042271509183027
+﻿grupo,subgrupo,indicador_en,indicador_pt,2021,2022,2023,2024,2025
+Receita líquida,,Operating revenue ,Receita líquida,,,,,
+Receita líquida,,Passenger revenue,Transporte de passageiros,8811044,14595579,17362895.54013,18123135,20231002
+Receita líquida,,Other revenue,Outras receitas,1164685,1352488,1331680.6332399999,1403073.39595,1642667
+Receita líquida,,Total Operating revenue ,Total receita líquida,9975729,15948067,18694576.17337,19526208.39595,21873669
+Custos dos serviços prestados,,Operating expenses,Custos dos serviços prestados ,,,,,
+Custos dos serviços prestados,,Aircraft fuel,Combustível de aviação ,-3257223,-6561288,-5890485,-5583503,-5710291
+Custos dos serviços prestados,,"Salaries, wages and benefits",Salários e benefícios,-1748441,-1954568,-2397252.88889,-2722872,-2611592
+Custos dos serviços prestados,,Other rent & ACMI,Outros aluguéis & ACMI,0,0,0,-268060,-586563
+Custos dos serviços prestados,,Landing fees,Tarifas aeroportuárias ,-677653,-911246,-1056906.24322,-1074818,-1257293
+Custos dos serviços prestados,,Traffic and customer servicing,Prestação de serviços de tráfego,-389349,-641900,-807563,-872481,-956931
+Custos dos serviços prestados,,Sales and marketing,Comerciais e marketing,-404137,-699003,-779264,-889224,-890983
+Custos dos serviços prestados,,Maintenance materials and repairs,Material de manutenção e reparo ,-546647,-592146.39813,-686199.6592266667,-789222,-781187
+Custos dos serviços prestados,,Depreciation and amortization,Depreciação e amortização ,-1544333,-2094448,-2314252.06463,-2563982,-3013375
+Custos dos serviços prestados,,Share based incentive,Incentivo baseado em ações ,0,0,0,0,0
+Custos dos serviços prestados,,Other operating expenses,"Outras despesas operacionais, líquidas",-1360946.988919986,-1357804.5508161911,-1862741.585579809,-1254354.6402,-2424265
+Custos dos serviços prestados,,Total Operating expenses,Total custos dos serviços prestados,-9928729.988919986,-14812403.948946191,-15794664.441546476,-16018516.6402,-18232480
+Lucro / (prejuízo) operacional,,Income (loss) for the period,Lucro / (prejuízo) operacional,46999.01108001359,1135663.051053809,2899911.7318235245,3507691.7557500005,3641189
+Lucro / (prejuízo) operacional,,EBIT Margin ,Margem EBIT,0.004711335991586538,0.07121007524321342,0.1551204854782631,0.17964018843912077,0.16646448293608174
+Resultado Financeiro,,Financial income ,Receita financeira ,154280,277289,220141,239058,904084
+Resultado Financeiro,,Financial expense ,Despesas financeiras ,-3633184,-4558144.994821067,-5363540.412719069,-4741167.0452,-8779222
+Resultado Financeiro,,Derivative financial instruments ,Instrumentos financeiros derivativos ,34971,438190.31671,19858.326640000043,-119306.22007999988,-20023
+Resultado Financeiro,,"Foreign currency exchange, net ","Variações monetárias e cambiais, líquida ",-1365595,1327353.2574036173,1562831.662171112,-7160074.450449999,4029320
+"Resultado de transações relacionadas, net",,Related parties result,"Resultado de transações relacionadas, net",-5173.39815,0,0,0,0
+Lucro (prejuízo) antes do IR e contribuição,,Income tax and social contribution,Imposto de renda e contribuição social,0,1,0,-723,0
+Lucro (prejuízo) antes do IR e contribuição,,Deferred income tax and social contribution,Imposto de renda e contribuição social diferidos ,0,0,-39526,39526,0
+Prejuízo líquido do exercício,,Income (loss) for the period,Prejuízo líquido do exercício,-4767702.387069986,-1379648.3696536408,-700323.6920844326,-8234994.959979998,-224651
+Prejuízo líquido do exercício,,Net Margin,Margem líquida,-0.4779302231516099,-0.08650881449479995,-0.037461330259095565,-0.4217406059072916,-0.010270384908905772
+EBITDA,,EBITDA,EBITDA,1591332.0110800136,3230111.051053809,5214163.796453524,6071673.7557500005,6654564
+EBITDA,,Margem EBITDA,Margem EBITDA,0.15952037300532257,0.20253934543000157,0.27891318573357027,0.31094996184765433,0.3042271509183027

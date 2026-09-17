@@ -1,0 +1,255 @@
+import streamlit as st
+import pandas as pd
+from pathlib import Path
+
+
+# ============================================================
+# CONFIGURAÇÃO DA PÁGINA
+# ============================================================
+
+st.set_page_config(
+    page_title="Validação das Bases - Azul",
+    page_icon="📊",
+    layout="wide"
+)
+
+st.title("📊 Visualização e Validação das Bases")
+st.write(
+    "Aplicação para visualizar e verificar os arquivos tratados "
+    "da Azul Linhas Aéreas."
+)
+
+
+# ============================================================
+# LOCALIZAÇÃO DOS ARQUIVOS
+# ============================================================
+
+PASTA_TRATADOS = Path("data/tratados")
+
+
+if not PASTA_TRATADOS.exists():
+    st.error("A pasta 'data/tratados' não foi encontrada.")
+    st.stop()
+
+
+arquivos_csv = sorted(PASTA_TRATADOS.glob("*.csv"))
+
+
+if not arquivos_csv:
+    st.warning("Nenhum arquivo CSV foi encontrado.")
+    st.stop()
+
+
+# ============================================================
+# SELEÇÃO DO ARQUIVO
+# ============================================================
+
+arquivo_selecionado = st.selectbox(
+    "Selecione o arquivo que deseja analisar:",
+    arquivos_csv,
+    format_func=lambda arquivo: arquivo.name
+)
+
+
+# ============================================================
+# LEITURA DO ARQUIVO
+# ============================================================
+
+try:
+
+    try:
+        df = pd.read_csv(
+            arquivo_selecionado,
+            encoding="utf-8-sig"
+        )
+
+    except UnicodeDecodeError:
+        df = pd.read_csv(
+            arquivo_selecionado,
+            encoding="latin1"
+        )
+
+except Exception as erro:
+    st.error(f"Erro ao carregar o arquivo: {erro}")
+    st.stop()
+
+
+if df.empty:
+    st.warning("O arquivo selecionado está vazio.")
+    st.stop()
+
+
+# Limpeza dos nomes das colunas
+df.columns = df.columns.astype(str).str.strip()
+
+
+# ============================================================
+# INFORMAÇÕES GERAIS
+# ============================================================
+
+st.subheader(f"📄 Arquivo: {arquivo_selecionado.name}")
+
+coluna1, coluna2, coluna3, coluna4 = st.columns(4)
+
+with coluna1:
+    st.metric("Linhas", df.shape[0])
+
+with coluna2:
+    st.metric("Colunas", df.shape[1])
+
+with coluna3:
+    st.metric("Duplicados", int(df.duplicated().sum()))
+
+with coluna4:
+    st.metric(
+        "Valores ausentes",
+        int(df.isna().sum().sum())
+    )
+
+
+# ============================================================
+# ABAS
+# ============================================================
+
+aba_dados, aba_ausentes, aba_duplicados, aba_tipos = st.tabs(
+    [
+        "📋 Dados",
+        "⚠️ Valores ausentes",
+        "🔁 Duplicados",
+        "🧾 Tipos das colunas"
+    ]
+)
+
+
+# ============================================================
+# ABA 1 — VISUALIZAÇÃO DOS DADOS
+# ============================================================
+
+with aba_dados:
+
+    st.subheader("Tabela completa")
+
+    st.dataframe(
+        df,
+        use_container_width=True,
+        hide_index=True
+    )
+
+
+# ============================================================
+# ABA 2 — VALORES AUSENTES
+# ============================================================
+
+with aba_ausentes:
+
+    st.subheader("Análise de valores ausentes")
+
+    tabela_ausentes = pd.DataFrame({
+        "coluna": df.columns,
+        "quantidade_ausentes": [
+            df[coluna].isna().sum()
+            for coluna in df.columns
+        ]
+    })
+
+    tabela_ausentes["percentual_ausentes"] = (
+        tabela_ausentes["quantidade_ausentes"]
+        / len(df)
+        * 100
+    ).round(2)
+
+    tabela_ausentes = tabela_ausentes.sort_values(
+        by="quantidade_ausentes",
+        ascending=False
+    )
+
+    st.dataframe(
+        tabela_ausentes,
+        use_container_width=True,
+        hide_index=True
+    )
+
+    total_ausentes = int(df.isna().sum().sum())
+
+    if total_ausentes == 0:
+        st.success("Nenhum valor ausente foi encontrado.")
+
+    else:
+        st.warning(
+            f"Foram encontrados {total_ausentes} valores ausentes."
+        )
+
+
+# ============================================================
+# ABA 3 — REGISTROS DUPLICADOS
+# ============================================================
+
+with aba_duplicados:
+
+    st.subheader("Análise de registros duplicados")
+
+    quantidade_duplicados = int(df.duplicated().sum())
+
+    if quantidade_duplicados == 0:
+
+        st.success("Nenhum registro duplicado foi encontrado.")
+
+    else:
+
+        st.warning(
+            f"Foram encontrados {quantidade_duplicados} registros duplicados."
+        )
+
+        registros_duplicados = df[
+            df.duplicated(keep=False)
+        ].sort_values(
+            by=list(df.columns)
+        )
+
+        st.dataframe(
+            registros_duplicados,
+            use_container_width=True,
+            hide_index=True
+        )
+
+
+# ============================================================
+# ABA 4 — TIPOS DAS COLUNAS
+# ============================================================
+
+with aba_tipos:
+
+    st.subheader("Informações sobre as colunas")
+
+    informacoes_colunas = pd.DataFrame({
+        "coluna": df.columns,
+        "tipo": [
+            str(df[coluna].dtype)
+            for coluna in df.columns
+        ],
+        "valores_preenchidos": [
+            int(df[coluna].notna().sum())
+            for coluna in df.columns
+        ],
+        "valores_unicos": [
+            int(df[coluna].nunique())
+            for coluna in df.columns
+        ]
+    })
+
+    st.dataframe(
+        informacoes_colunas,
+        use_container_width=True,
+        hide_index=True
+    )
+
+
+# ============================================================
+# RODAPÉ
+# ============================================================
+
+st.divider()
+
+st.caption(
+    "Projeto de análise de dados públicos da Azul Linhas Aéreas."
+)
