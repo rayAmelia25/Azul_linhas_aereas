@@ -14,6 +14,7 @@ st.set_page_config(
 )
 
 st.title("📊 Visualização e Validação das Bases")
+
 st.write(
     "Aplicação para visualizar e verificar os arquivos tratados "
     "da Azul Linhas Aéreas."
@@ -24,7 +25,7 @@ st.write(
 # LOCALIZAÇÃO DOS ARQUIVOS
 # ============================================================
 
-PASTA_TRATADOS = Path("data/tratados/cvm/itr/2025")
+PASTA_TRATADOS = Path("data/tratados")
 
 
 if not PASTA_TRATADOS.exists():
@@ -32,11 +33,17 @@ if not PASTA_TRATADOS.exists():
     st.stop()
 
 
-arquivos_csv = sorted(PASTA_TRATADOS.glob("*.csv"))
+# Busca arquivos CSV dentro da pasta tratados e subpastas
+arquivos_csv = sorted(
+    PASTA_TRATADOS.rglob("*.csv")
+)
 
 
 if not arquivos_csv:
-    st.warning("Nenhum arquivo CSV foi encontrado.")
+    st.warning(
+        "Nenhum arquivo CSV foi encontrado dentro de "
+        "'data/tratados'."
+    )
     st.stop()
 
 
@@ -47,7 +54,9 @@ if not arquivos_csv:
 arquivo_selecionado = st.selectbox(
     "Selecione o arquivo que deseja analisar:",
     arquivos_csv,
-    format_func=lambda arquivo: arquivo.name
+    format_func=lambda arquivo: str(
+        arquivo.relative_to(PASTA_TRATADOS)
+    )
 )
 
 
@@ -58,23 +67,36 @@ arquivo_selecionado = st.selectbox(
 try:
 
     try:
+
+        # Detecta automaticamente o separador
         df = pd.read_csv(
             arquivo_selecionado,
-            encoding="utf-8-sig"
+            encoding="utf-8-sig",
+            sep=None,
+            engine="python"
         )
 
     except UnicodeDecodeError:
+
         df = pd.read_csv(
             arquivo_selecionado,
-            encoding="latin1"
+            encoding="latin1",
+            sep=None,
+            engine="python"
         )
 
 except Exception as erro:
+
     st.error(f"Erro ao carregar o arquivo: {erro}")
     st.stop()
 
 
+# ============================================================
+# VALIDAÇÃO INICIAL
+# ============================================================
+
 if df.empty:
+
     st.warning("O arquivo selecionado está vazio.")
     st.stop()
 
@@ -87,20 +109,39 @@ df.columns = df.columns.astype(str).str.strip()
 # INFORMAÇÕES GERAIS
 # ============================================================
 
-st.subheader(f"📄 Arquivo: {arquivo_selecionado.name}")
+st.subheader(
+    f"📄 Arquivo: {arquivo_selecionado.relative_to(PASTA_TRATADOS)}"
+)
 
 coluna1, coluna2, coluna3, coluna4 = st.columns(4)
 
+
 with coluna1:
-    st.metric("Linhas", df.shape[0])
+
+    st.metric(
+        "Linhas",
+        df.shape[0]
+    )
+
 
 with coluna2:
-    st.metric("Colunas", df.shape[1])
+
+    st.metric(
+        "Colunas",
+        df.shape[1]
+    )
+
 
 with coluna3:
-    st.metric("Duplicados", int(df.duplicated().sum()))
+
+    st.metric(
+        "Duplicados",
+        int(df.duplicated().sum())
+    )
+
 
 with coluna4:
+
     st.metric(
         "Valores ausentes",
         int(df.isna().sum().sum())
@@ -134,7 +175,6 @@ with aba_dados:
         use_container_width=True,
         hide_index=True
     )
-    
 
 
 # ============================================================
@@ -146,36 +186,58 @@ with aba_ausentes:
     st.subheader("Análise de valores ausentes")
 
     tabela_ausentes = pd.DataFrame({
+
         "coluna": df.columns,
+
         "quantidade_ausentes": [
             df[coluna].isna().sum()
             for coluna in df.columns
         ]
+
     })
 
     tabela_ausentes["percentual_ausentes"] = (
+
         tabela_ausentes["quantidade_ausentes"]
         / len(df)
         * 100
+
     ).round(2)
 
+
     tabela_ausentes = tabela_ausentes.sort_values(
+
         by="quantidade_ausentes",
+
         ascending=False
+
     )
+
 
     st.dataframe(
+
         tabela_ausentes,
+
         use_container_width=True,
+
         hide_index=True
+
     )
 
-    total_ausentes = int(df.isna().sum().sum())
+
+    total_ausentes = int(
+        df.isna().sum().sum()
+    )
+
 
     if total_ausentes == 0:
-        st.success("Nenhum valor ausente foi encontrado.")
+
+        st.success(
+            "Nenhum valor ausente foi encontrado."
+        )
 
     else:
+
         st.warning(
             f"Foram encontrados {total_ausentes} valores ausentes."
         )
@@ -189,11 +251,16 @@ with aba_duplicados:
 
     st.subheader("Análise de registros duplicados")
 
-    quantidade_duplicados = int(df.duplicated().sum())
+    quantidade_duplicados = int(
+        df.duplicated().sum()
+    )
+
 
     if quantidade_duplicados == 0:
 
-        st.success("Nenhum registro duplicado foi encontrado.")
+        st.success(
+            "Nenhum registro duplicado foi encontrado."
+        )
 
     else:
 
@@ -201,16 +268,20 @@ with aba_duplicados:
             f"Foram encontrados {quantidade_duplicados} registros duplicados."
         )
 
+
         registros_duplicados = df[
             df.duplicated(keep=False)
-        ].sort_values(
-            by=list(df.columns)
-        )
+        ]
+
 
         st.dataframe(
+
             registros_duplicados,
+
             use_container_width=True,
+
             hide_index=True
+
         )
 
 
@@ -222,26 +293,46 @@ with aba_tipos:
 
     st.subheader("Informações sobre as colunas")
 
+
     informacoes_colunas = pd.DataFrame({
+
         "coluna": df.columns,
+
         "tipo": [
+
             str(df[coluna].dtype)
+
             for coluna in df.columns
+
         ],
+
         "valores_preenchidos": [
+
             int(df[coluna].notna().sum())
+
             for coluna in df.columns
+
         ],
+
         "valores_unicos": [
+
             int(df[coluna].nunique())
+
             for coluna in df.columns
+
         ]
+
     })
 
+
     st.dataframe(
+
         informacoes_colunas,
+
         use_container_width=True,
+
         hide_index=True
+
     )
 
 
