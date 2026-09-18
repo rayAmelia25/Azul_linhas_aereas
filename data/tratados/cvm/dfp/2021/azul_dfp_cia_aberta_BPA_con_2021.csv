@@ -1,0 +1,145 @@
+﻿CNPJ_CIA;DT_REFER;VERSAO;DENOM_CIA;CD_CVM;GRUPO_DFP;MOEDA;ESCALA_MOEDA;ORDEM_EXERC;DT_FIM_EXERC;CD_CONTA;DS_CONTA;VL_CONTA;ST_CONTA_FIXA
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1;Ativo Total;15794457.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1;Ativo Total;18533473.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01;Ativo Circulante;5417423.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01;Ativo Circulante;5846336.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.01;Caixa e Equivalentes de Caixa;3064815.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.01;Caixa e Equivalentes de Caixa;3073799.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.02;Aplicações Financeiras;91819.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.02;Aplicações Financeiras;1430.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.02.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;91819.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.02.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;1430.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.02.01.01;Títulos para Negociação;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.02.01.01;Títulos para Negociação;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.02.01.02;Títulos Designados a Valor Justo;91819.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.02.01.02;Títulos Designados a Valor Justo;1430.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.02.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.02.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.02.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.02.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.03;Contas a Receber;875382.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.03;Contas a Receber;997893.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.03.01;Clientes;875382.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.03.01;Clientes;997893.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.03.02;Outras Contas a Receber;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.03.02;Outras Contas a Receber;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.03.02.01;Subarrendamento de aeronaves a receber;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.03.02.01;Subarrendamento de aeronaves a receber;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.04;Estoques;402587.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.04;Estoques;571924.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.05;Ativos Biológicos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.05;Ativos Biológicos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.06;Tributos a Recuperar;133706.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.06;Tributos a Recuperar;109699.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.06.01;Tributos Correntes a Recuperar;133706.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.06.01;Tributos Correntes a Recuperar;109699.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.07;Despesas Antecipadas;219039.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.07;Despesas Antecipadas;244413.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08;Outros Ativos Circulantes;630075.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08;Outros Ativos Circulantes;847178.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.01;Ativos Não-Correntes a Venda;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.01;Ativos Não-Correntes a Venda;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.02;Ativos de Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.02;Ativos de Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.03;Outros;630075.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.03;Outros;847178.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.03.01;Depósitos em garantia e reservas para manutenção;318460.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.03.01;Depósitos em garantia e reservas para manutenção;410912.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.03.02;Instrumentos financeiros derivativos;79216.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.03.02;Instrumentos financeiros derivativos;83177.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.03.03;Ativo disponível para venda;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.03.03;Ativo disponível para venda;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.03.05;Adiantamento a fornecedores;83114.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.03.05;Adiantamento a fornecedores;203379.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.03.06;Subarrendamento de aeronaves a receber;123455.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.03.06;Subarrendamento de aeronaves a receber;76199.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.01.08.03.07;Outros ativos circulantes;25830.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.01.08.03.07;Outros ativos circulantes;73511.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02;Ativo Não Circulante;10377034.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02;Ativo Não Circulante;12687137.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01;Ativo Realizável a Longo Prazo;2796319.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01;Ativo Realizável a Longo Prazo;3368330.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;854462.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;906719.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.01.01;Títulos Designados a Valor Justo;854462.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.01.01;Títulos Designados a Valor Justo;906719.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.04;Contas a Receber;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.04;Contas a Receber;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.04.01;Clientes;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.04.01;Clientes;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.04.02;Outras Contas a Receber;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.04.02;Outras Contas a Receber;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.04.03;Subarrendamento de aeronaves a receber;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.04.03;Subarrendamento de aeronaves a receber;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.05;Estoques;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.05;Estoques;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.06;Ativos Biológicos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.06;Ativos Biológicos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.07;Tributos Diferidos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.07;Tributos Diferidos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.07.01;Imposto de Renda e Contribuição Social Diferidos;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.07.01;Imposto de Renda e Contribuição Social Diferidos;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.08;Despesas Antecipadas;18192.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.08;Despesas Antecipadas;313365.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.09;Créditos com Partes Relacionadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.09;Créditos com Partes Relacionadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.09.01;Créditos com Coligadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.09.01;Créditos com Coligadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.09.03;Créditos com Controladores;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.09.03;Créditos com Controladores;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.09.04;Créditos com Outras Partes Relacionadas;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.09.04;Créditos com Outras Partes Relacionadas;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.10;Outros Ativos Não Circulantes;1923665.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.10;Outros Ativos Não Circulantes;2148246.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.10.01;Ativos Não-Correntes a Venda;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.10.01;Ativos Não-Correntes a Venda;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.10.02;Ativos de Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.10.02;Ativos de Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.10.03;Instrumentos financeiros derivativos;349093.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.10.03;Instrumentos financeiros derivativos;270640.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.10.04;Tributos a recuperar;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.10.04;Tributos a recuperar;0.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.10.05;Subarrendamento de aeronaves a receber;189482.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.10.05;Subarrendamento de aeronaves a receber;197999.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.10.07;Depósito em garantia e reservas para manutenção;1235582.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.10.07;Depósito em garantia e reservas para manutenção;1553507.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.01.10.08;Outros ativos não circulantes;149508.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.01.10.08;Outros ativos não circulantes;126100.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.02;Investimentos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.02;Investimentos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.02.01;Participações Societárias;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.02.01;Participações Societárias;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.02.01.01;Participações em Coligadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.02.01.01;Participações em Coligadas;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.02.01.04;Participações em Controladas em Conjunto;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.02.01.04;Participações em Controladas em Conjunto;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.02.01.05;Outros Investimentos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.02.01.05;Outros Investimentos;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.02.02;Propriedades para Investimento;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.02.02;Propriedades para Investimento;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.03;Imobilizado;6410447.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.03;Imobilizado;7960769.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.03.01;Imobilizado em Operação;1799706.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.03.01;Imobilizado em Operação;1961174.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.03.02;Direito de Uso em Arrendamento;4610741.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.03.02;Direito de Uso em Arrendamento;5999595.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.03.03;Imobilizado em Andamento;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.03.03;Imobilizado em Andamento;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.04;Intangível;1170268.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.04;Intangível;1358038.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.04.01;Intangíveis;359320.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.04.01;Intangíveis;456621.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.04.01.01;Contrato de Concessão;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.04.01.01;Contrato de Concessão;0.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.04.01.02;Licença de operação em aeroportos;82196.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.04.01.02;Licença de operação em aeroportos;126547.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.04.01.04;Software;593334.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.04.01.04;Software;748049.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.04.01.05;Amortização de Software;-316210.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.04.01.05;Amortização de Software;-417975.0;N
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;PENÚLTIMO;2020-12-31;1.02.04.02;Goodwill;810948.0;S
+09.305.994/0001-29;2021-12-31;1;AZUL S.A.;24112;DF Consolidado - Balanço Patrimonial Ativo;REAL;MIL;ÚLTIMO;2021-12-31;1.02.04.02;Goodwill;901417.0;S

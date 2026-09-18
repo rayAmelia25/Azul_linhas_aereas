@@ -1,0 +1,11 @@
+﻿CNPJ_CIA;DT_REFER;VERSAO;DENOM_CIA;CD_CVM;GRUPO_DFP;MOEDA;ESCALA_MOEDA;ORDEM_EXERC;DT_INI_EXERC;DT_FIM_EXERC;CD_CONTA;DS_CONTA;VL_CONTA;ST_CONTA_FIXA
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2023-01-01;2023-12-31;4.01;Lucro Líquido do Período;-2380456.0;S
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2024-01-01;2024-12-31;4.01;Lucro Líquido do Período;-9151371.0;S
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2023-01-01;2023-12-31;4.02;Outros Resultados Abrangentes;-2175.0;S
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2024-01-01;2024-12-31;4.02;Outros Resultados Abrangentes;2811.0;S
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2023-01-01;2023-12-31;4.02.01;Hedge de fluxo de caixa;0.0;N
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2024-01-01;2024-12-31;4.02.01;Hedge de fluxo de caixa;0.0;N
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2023-01-01;2023-12-31;4.02.02;Benefício pós-emprego;-2175.0;N
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2024-01-01;2024-12-31;4.02.02;Benefício pós-emprego;2811.0;N
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2023-01-01;2023-12-31;4.03;Resultado Abrangente do Período;-2382631.0;S
+09.305.994/0001-29;2024-12-31;1;AZUL S.A.;24112;DF Individual - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2024-01-01;2024-12-31;4.03;Resultado Abrangente do Período;-9148560.0;S

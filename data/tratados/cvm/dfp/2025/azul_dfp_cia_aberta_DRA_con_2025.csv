@@ -1,0 +1,13 @@
+﻿CNPJ_CIA;DT_REFER;VERSAO;DENOM_CIA;CD_CVM;GRUPO_DFP;MOEDA;ESCALA_MOEDA;ORDEM_EXERC;DT_INI_EXERC;DT_FIM_EXERC;CD_CONTA;DS_CONTA;VL_CONTA;ST_CONTA_FIXA
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;4.01;Lucro Líquido Consolidado do Período;-9151371.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;4.01;Lucro Líquido Consolidado do Período;124858.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;4.02;Outros Resultados Abrangentes;2811.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;4.02;Outros Resultados Abrangentes;-1014.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;4.02.01;Benefício pós-emprego;2811.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;4.02.01;Benefício pós-emprego;-1014.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;4.03;Resultado Abrangente Consolidado do Período;-9148560.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;4.03;Resultado Abrangente Consolidado do Período;123844.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;4.03.01;Atribuído a Sócios da Empresa Controladora;-9148560.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;4.03.01;Atribuído a Sócios da Empresa Controladora;123844.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;4.03.02;Atribuído a Sócios Não Controladores;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Consolidado - Demonstração de Resultado Abrangente;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;4.03.02;Atribuído a Sócios Não Controladores;0.0;S

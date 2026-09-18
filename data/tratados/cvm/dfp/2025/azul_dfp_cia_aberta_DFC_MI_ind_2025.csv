@@ -1,0 +1,71 @@
+﻿CNPJ_CIA;DT_REFER;VERSAO;DENOM_CIA;CD_CVM;GRUPO_DFP;MOEDA;ESCALA_MOEDA;ORDEM_EXERC;DT_INI_EXERC;DT_FIM_EXERC;CD_CONTA;DS_CONTA;VL_CONTA;ST_CONTA_FIXA
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01;Caixa Líquido Atividades Operacionais;-147795.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01;Caixa Líquido Atividades Operacionais;-291841.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01;Caixa Gerado nas Operações;-60823.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01;Caixa Gerado nas Operações;-115604.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01.01;Lucro (prejuízo) do exercício;-9151371.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01.01;Lucro (prejuízo) do exercício;124858.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01.02;Instrumentos financeiros derivativos, líquidos;-437035.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01.02;Instrumentos financeiros derivativos, líquidos;-1006544.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01.04;Variações cambiais, líquidas;393715.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01.04;Variações cambiais, líquidas;37857.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01.05;Resultado financeiro;317328.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01.05;Resultado financeiro;63096.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01.06;Imposto de renda e contribuição social diferidos;-39526.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01.06;Imposto de renda e contribuição social diferidos;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01.07;Resultado de Equivalência Patrimonial;8855954.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01.07;Resultado de Equivalência Patrimonial;667797.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01.09;Provisões, líquidas;112.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01.09;Provisões, líquidas;-24.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.01.10;Renegociações - Chapter 11;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.01.10;Renegociações - Chapter 11;-2644.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.02;Variações nos Ativos e Passivos;10551.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.02;Variações nos Ativos e Passivos;1657.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.02.04;Tributos a recuperar;4973.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.02.04;Tributos a recuperar;-21.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.02.05;Outros ativos;8525.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.02.05;Outros ativos;-5075.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.02.06;Fornecedores;-3915.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.02.06;Fornecedores;6976.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.02.07;Tributos a recolher;837.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.02.07;Tributos a recolher;-55.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.02.09;Salários e encargos sociais;126.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.02.09;Salários e encargos sociais;-180.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.02.10;Depósitos;5.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.02.10;Depósitos;12.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.03;Outros;-97523.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.03;Outros;-177894.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.03.01;Juros pagos - Instrumentos de dívidas conversíveis;-76382.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.03.01;Juros pagos - Instrumentos de dívidas conversíveis;-177894.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.01.03.02;Juros pagos - Empréstimos e financiamentos;-21141.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.01.03.02;Juros pagos - Empréstimos e financiamentos;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.02;Caixa Líquido Atividades de Investimento;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.02;Caixa Líquido Atividades de Investimento;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03;Caixa Líquido Atividades de Financiamento;146787.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03;Caixa Líquido Atividades de Financiamento;303635.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.01;Custo na emissão de ações;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.01;Custo na emissão de ações;-43048.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.03;Ações em tesouraria;-2596.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.03;Ações em tesouraria;-4.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.04;Adiantamento para futuro aumento de capital;18.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.04;Adiantamento para futuro aumento de capital;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.05;Partes relacionadas;153811.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.05;Partes relacionadas;295480.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.06;Aumento de capital;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.06;Aumento de capital;51207.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.07;Pagamento de instrumentos conversíveis;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.07;Pagamento de instrumentos conversíveis;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.08;Custos;-4446.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.08;Custos;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.09;Captações;250000.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.09;Captações;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.03.10;Pagamentos;-250000.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.03.10;Pagamentos;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.04;Variação Cambial s/ Caixa e Equivalentes;214.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.04;Variação Cambial s/ Caixa e Equivalentes;-10654.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.05;Aumento (Redução) de Caixa e Equivalentes;-794.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.05;Aumento (Redução) de Caixa e Equivalentes;1140.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.05.01;Saldo Inicial de Caixa e Equivalentes;2809.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.05.01;Saldo Inicial de Caixa e Equivalentes;2015.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;6.05.02;Saldo Final de Caixa e Equivalentes;2015.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Fluxo de Caixa (Método Indireto);REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;6.05.02;Saldo Final de Caixa e Equivalentes;3155.0;S

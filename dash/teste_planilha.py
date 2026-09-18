@@ -24,7 +24,7 @@ st.write(
 # LOCALIZAÇÃO DOS ARQUIVOS
 # ============================================================
 
-PASTA_TRATADOS = Path("data/tratados")
+PASTA_TRATADOS = Path("data/tratados/cvm/itr/2025")
 
 
 if not PASTA_TRATADOS.exists():
@@ -134,6 +134,7 @@ with aba_dados:
         use_container_width=True,
         hide_index=True
     )
+    
 
 
 # ============================================================

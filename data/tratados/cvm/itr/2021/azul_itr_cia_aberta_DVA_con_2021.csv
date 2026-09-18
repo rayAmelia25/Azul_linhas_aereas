@@ -1,0 +1,275 @@
+﻿CNPJ_CIA;DT_REFER;VERSAO;DENOM_CIA;CD_CVM;GRUPO_DFP;MOEDA;ESCALA_MOEDA;ORDEM_EXERC;DT_INI_EXERC;DT_FIM_EXERC;CD_CONTA;DS_CONTA;VL_CONTA;ST_CONTA_FIXA
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.01;Receitas;2891161.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.01;Receitas;1908913.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.01.01;Vendas de Mercadorias, Produtos e Serviços;2725106.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.01.01;Vendas de Mercadorias, Produtos e Serviços;1650069.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.01.02;Outras Receitas;168832.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.01.02;Outras Receitas;258900.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.01.03;Receitas refs. à Construção de Ativos Próprios;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.01.03;Receitas refs. à Construção de Ativos Próprios;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.01.04;Provisão/Reversão de Créds. Liquidação Duvidosa;-2777.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.01.04;Provisão/Reversão de Créds. Liquidação Duvidosa;-56.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.02;Insumos Adquiridos de Terceiros;-1629826.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.02;Insumos Adquiridos de Terceiros;-1266461.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.02.01;Custos Prods., Mercs. e Servs. Vendidos;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.02.01;Custos Prods., Mercs. e Servs. Vendidos;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.02.02;Materiais, Energia, Servs. de Terceiros e Outros;-852200.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.02.02;Materiais, Energia, Servs. de Terceiros e Outros;-655181.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.02.03;Perda/Recuperação de Valores Ativos;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.02.03;Perda/Recuperação de Valores Ativos;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.02.04;Outros;-777626.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.02.04;Outros;-611280.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.02.04.01;Combustível de aviação;-764310.0;N
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.02.04.01;Combustível de aviação;-597666.0;N
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.02.04.02;Seguros de aeronaves;-13316.0;N
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.02.04.02;Seguros de aeronaves;-13614.0;N
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.03;Valor Adicionado Bruto;1261335.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.03;Valor Adicionado Bruto;642452.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.04;Retenções;-480665.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.04;Retenções;-343749.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.04.01;Depreciação, Amortização e Exaustão;-480665.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.04.01;Depreciação, Amortização e Exaustão;-343749.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.04.02;Outras;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.04.02;Outras;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.05;Valor Adicionado Líquido Produzido;780670.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.05;Valor Adicionado Líquido Produzido;298703.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.06;Vlr Adicionado Recebido em Transferência;-605630.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.06;Vlr Adicionado Recebido em Transferência;24055.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.06.01;Resultado de Equivalência Patrimonial;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.06.01;Resultado de Equivalência Patrimonial;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.06.02;Receitas Financeiras;12887.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.06.02;Receitas Financeiras;25349.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.06.03;Outros;-618517.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.06.03;Outros;-1294.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.06.03.01;Resultado de transações com partes relacionadas;-618517.0;N
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.06.03.01;Resultado de transações com partes relacionadas;-1294.0;N
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.07;Valor Adicionado Total a Distribuir;175040.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.07;Valor Adicionado Total a Distribuir;322758.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08;Distribuição do Valor Adicionado;175040.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08;Distribuição do Valor Adicionado;322758.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.01;Pessoal;417080.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.01;Pessoal;341884.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.01.01;Remuneração Direta;340352.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.01.01;Remuneração Direta;263423.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.01.02;Benefícios;46320.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.01.02;Benefícios;54987.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.01.03;F.G.T.S.;30408.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.01.03;F.G.T.S.;23474.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.01.04;Outros;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.01.04;Outros;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.02;Impostos, Taxas e Contribuições;-82766.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.02;Impostos, Taxas e Contribuições;154012.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.02.01;Federais;-91111.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.02.01;Federais;130282.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.02.02;Estaduais;5402.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.02.02;Estaduais;8831.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.02.03;Municipais;2943.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.02.03;Municipais;14899.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.03;Remuneração de Capitais de Terceiros;5991353.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.03;Remuneração de Capitais de Terceiros;2613488.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.03.01;Juros;5953886.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.03.01;Juros;2564740.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.03.02;Aluguéis;37467.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.03.02;Aluguéis;48748.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.03.03;Outras;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.03.03;Outras;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.04;Remuneração de Capitais Próprios;-6150627.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.04;Remuneração de Capitais Próprios;-2786626.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.04.01;Juros sobre o Capital Próprio;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.04.01;Juros sobre o Capital Próprio;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.04.02;Dividendos;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.04.02;Dividendos;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.04.03;Lucros Retidos / Prejuízo do Período;-6150627.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.04.03;Lucros Retidos / Prejuízo do Período;-2786626.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.04.04;Part. Não Controladores nos Lucros Retidos;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.04.04;Part. Não Controladores nos Lucros Retidos;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-03-31;7.08.05;Outros;0.0;S
+09.305.994/0001-29;2021-03-31;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-03-31;7.08.05;Outros;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.01;Receitas;3320515.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.01;Receitas;3687062.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.01.01;Vendas de Mercadorias, Produtos e Serviços;3018338.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.01.01;Vendas de Mercadorias, Produtos e Serviços;3111152.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.01.02;Outras Receitas;305040.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.01.02;Outras Receitas;576527.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.01.03;Receitas refs. à Construção de Ativos Próprios;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.01.03;Receitas refs. à Construção de Ativos Próprios;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.01.04;Provisão/Reversão de Créds. Liquidação Duvidosa;-2863.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.01.04;Provisão/Reversão de Créds. Liquidação Duvidosa;-617.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.02;Insumos Adquiridos de Terceiros;-2345158.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.02;Insumos Adquiridos de Terceiros;-2678355.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.02.01;Custos Prods., Mercs. e Servs. Vendidos;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.02.01;Custos Prods., Mercs. e Servs. Vendidos;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.02.02;Materiais, Energia, Servs. de Terceiros e Outros;-1484752.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.02.02;Materiais, Energia, Servs. de Terceiros e Outros;-1445255.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.02.03;Perda/Recuperação de Valores Ativos;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.02.03;Perda/Recuperação de Valores Ativos;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.02.04;Outros;-860406.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.02.04;Outros;-1233100.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.02.04.01;Combustível de aviação;-831609.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.02.04.01;Combustível de aviação;-1207028.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.02.04.02;Seguros de aeronaves;-28797.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.02.04.02;Seguros de aeronaves;-26072.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.03;Valor Adicionado Bruto;975357.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.03;Valor Adicionado Bruto;1008707.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.04;Retenções;-976578.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.04;Retenções;-590015.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.04.01;Depreciação, Amortização e Exaustão;-976578.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.04.01;Depreciação, Amortização e Exaustão;-693032.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.04.02;Outras;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.04.02;Outras;103017.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.04.02.01;Impairment;0.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.04.02.01;Impairment;103017.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.05;Valor Adicionado Líquido Produzido;-1221.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.05;Valor Adicionado Líquido Produzido;418692.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.06;Vlr Adicionado Recebido em Transferência;-823813.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.06;Vlr Adicionado Recebido em Transferência;53246.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.06.01;Resultado de Equivalência Patrimonial;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.06.01;Resultado de Equivalência Patrimonial;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.06.02;Receitas Financeiras;33646.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.06.02;Receitas Financeiras;55833.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.06.03;Outros;-857459.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.06.03;Outros;-2587.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.06.03.01;Traansações com partes relacionadas;-857459.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.06.03.01;Traansações com partes relacionadas;-2587.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.07;Valor Adicionado Total a Distribuir;-825034.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.07;Valor Adicionado Total a Distribuir;471938.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08;Distribuição do Valor Adicionado;-825034.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08;Distribuição do Valor Adicionado;471938.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.01;Pessoal;596741.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.01;Pessoal;692411.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.01.01;Remuneração Direta;463617.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.01.01;Remuneração Direta;515285.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.01.02;Benefícios;92159.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.01.02;Benefícios;130064.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.01.03;F.G.T.S.;40965.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.01.03;F.G.T.S.;47062.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.01.04;Outros;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.01.04;Outros;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.02;Impostos, Taxas e Contribuições;-44354.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.02;Impostos, Taxas e Contribuições;272667.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.02.01;Federais;-60331.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.02.01;Federais;248339.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.02.02;Estaduais;11526.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.02.02;Estaduais;18358.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.02.03;Municipais;4451.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.02.03;Municipais;5970.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.03;Remuneração de Capitais de Terceiros;7913616.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.03;Remuneração de Capitais de Terceiros;1131435.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.03.01;Juros;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.03.01;Juros;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.03.02;Aluguéis;51791.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.03.02;Aluguéis;101470.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.03.03;Outras;7861825.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.03.03;Outras;1029965.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.03.03.01;Despesa financeira;1041466.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.03.03.01;Despesa financeira;1781424.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.03.03.02;Instrumentos financeiros derivativos,líquido;1546780.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.03.03.02;Instrumentos financeiros derivativos,líquido;-44534.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.03.03.03;Variações cambiais,líquida;5273579.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.03.03.03;Variações cambiais,líquida;-706925.0;N
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.04;Remuneração de Capitais Próprios;-9291037.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.04;Remuneração de Capitais Próprios;-1624575.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.04.01;Juros sobre o Capital Próprio;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.04.01;Juros sobre o Capital Próprio;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.04.02;Dividendos;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.04.02;Dividendos;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.04.03;Lucros Retidos / Prejuízo do Período;-9291037.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.04.03;Lucros Retidos / Prejuízo do Período;-1624575.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.04.04;Part. Não Controladores nos Lucros Retidos;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.04.04;Part. Não Controladores nos Lucros Retidos;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-06-30;7.08.05;Outros;0.0;S
+09.305.994/0001-29;2021-06-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-06-30;7.08.05;Outros;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.01;Receitas;4174900.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.01;Receitas;6518530.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.01.01;Vendas de Mercadorias, Produtos e Serviços;3665398.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.01.01;Vendas de Mercadorias, Produtos e Serviços;5589392.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.01.02;Outras Receitas;511693.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.01.02;Outras Receitas;928935.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.01.03;Receitas refs. à Construção de Ativos Próprios;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.01.03;Receitas refs. à Construção de Ativos Próprios;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.01.04;Provisão/Reversão de Créds. Liquidação Duvidosa;-2191.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.01.04;Provisão/Reversão de Créds. Liquidação Duvidosa;203.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.02;Insumos Adquiridos de Terceiros;-2639778.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.02;Insumos Adquiridos de Terceiros;-4495532.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.02.01;Custos Prods., Mercs. e Servs. Vendidos;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.02.01;Custos Prods., Mercs. e Servs. Vendidos;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.02.02;Materiais, Energia, Servs. de Terceiros e Outros;-1537361.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.02.02;Materiais, Energia, Servs. de Terceiros e Outros;-2372608.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.02.03;Perda/Recuperação de Valores Ativos;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.02.03;Perda/Recuperação de Valores Ativos;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.02.04;Outros;-1102417.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.02.04;Outros;-2122924.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.02.04.01;Combustível de aviação;-1057743.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.02.04.01;Combustível de aviação;-2086266.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.02.04.02;Seguros de aeronaves;-44674.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.02.04.02;Seguros de aeronaves;-36658.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.03;Valor Adicionado Bruto;1535122.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.03;Valor Adicionado Bruto;2022998.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.04;Retenções;-1422527.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.04;Retenções;-939292.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.04.01;Depreciação, Amortização e Exaustão;-1402443.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.04.01;Depreciação, Amortização e Exaustão;-1042309.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.04.02;Outras;-20084.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.04.02;Outras;103017.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.04.02.01;Impairment;-20084.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.04.02.01;Impairment;103017.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.05;Valor Adicionado Líquido Produzido;112595.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.05;Valor Adicionado Líquido Produzido;1083706.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.06;Vlr Adicionado Recebido em Transferência;-730497.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.06;Vlr Adicionado Recebido em Transferência;85488.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.06.01;Resultado de Equivalência Patrimonial;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.06.01;Resultado de Equivalência Patrimonial;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.06.02;Receitas Financeiras;45908.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.06.02;Receitas Financeiras;89385.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.06.03;Outros;-776405.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.06.03;Outros;-3897.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.06.03.01;Transações com partes relacionadas;-776405.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.06.03.01;Transações com partes relacionadas;-3897.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.07;Valor Adicionado Total a Distribuir;-617902.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.07;Valor Adicionado Total a Distribuir;1169194.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08;Distribuição do Valor Adicionado;-617902.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08;Distribuição do Valor Adicionado;1169194.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.01;Pessoal;855594.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.01;Pessoal;1061913.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.01.01;Remuneração Direta;654085.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.01.01;Remuneração Direta;784866.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.01.02;Benefícios;146922.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.01.02;Benefícios;205917.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.01.03;F.G.T.S.;54587.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.01.03;F.G.T.S.;71130.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.01.04;Outros;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.01.04;Outros;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.02;Impostos, Taxas e Contribuições;60819.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.02;Impostos, Taxas e Contribuições;449114.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.02.01;Federais;33518.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.02.01;Federais;411493.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.02.02;Estaduais;19437.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.02.02;Estaduais;28825.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.02.03;Municipais;7864.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.02.03;Municipais;8796.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.03;Remuneração de Capitais de Terceiros;8983003.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.03;Remuneração de Capitais de Terceiros;3479038.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.03.01;Juros;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.03.01;Juros;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.03.02;Aluguéis;71553.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.03.02;Aluguéis;147345.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.03.03;Outras;8911450.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.03.03;Outras;3331693.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.03.03.01;Despesa financeiras;1617196.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.03.03.01;Despesa financeiras;2764192.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.03.03.02;Instrumentos financeiros derivativos,líquido;1478033.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.03.03.02;Instrumentos financeiros derivativos,líquido;-307763.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.03.03.03;Variações cambiais,líquida;5816221.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.03.03.03;Variações cambiais,líquida;875264.0;N
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.04;Remuneração de Capitais Próprios;-10517318.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.04;Remuneração de Capitais Próprios;-3820871.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.04.01;Juros sobre o Capital Próprio;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.04.01;Juros sobre o Capital Próprio;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.04.02;Dividendos;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.04.02;Dividendos;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.04.03;Lucros Retidos / Prejuízo do Período;-10517318.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.04.03;Lucros Retidos / Prejuízo do Período;-3820871.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.04.04;Part. Não Controladores nos Lucros Retidos;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.04.04;Part. Não Controladores nos Lucros Retidos;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;PENÚLTIMO;2020-01-01;2020-09-30;7.08.05;Outros;0.0;S
+09.305.994/0001-29;2021-09-30;1;AZUL S.A.;24112;DF Consolidado - Demonstração de Valor Adicionado;REAL;MIL;ÚLTIMO;2021-01-01;2021-09-30;7.08.05;Outros;0.0;S

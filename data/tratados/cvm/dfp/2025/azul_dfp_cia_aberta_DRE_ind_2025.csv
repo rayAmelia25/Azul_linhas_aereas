@@ -1,0 +1,69 @@
+﻿CNPJ_CIA;DT_REFER;VERSAO;DENOM_CIA;CD_CVM;GRUPO_DFP;MOEDA;ESCALA_MOEDA;ORDEM_EXERC;DT_INI_EXERC;DT_FIM_EXERC;CD_CONTA;DS_CONTA;VL_CONTA;ST_CONTA_FIXA
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.01;Receita de Venda de Bens e/ou Serviços;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.01;Receita de Venda de Bens e/ou Serviços;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.02;Custo dos Bens e/ou Serviços Vendidos;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.02;Custo dos Bens e/ou Serviços Vendidos;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.03;Resultado Bruto;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.03;Resultado Bruto;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.04;Despesas/Receitas Operacionais;-8927786.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.04;Despesas/Receitas Operacionais;-754127.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.04.01;Despesas com Vendas;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.04.01;Despesas com Vendas;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.04.02;Despesas Gerais e Administrativas;-71401.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.04.02;Despesas Gerais e Administrativas;-76903.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.04.03;Perdas pela Não Recuperabilidade de Ativos;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.04.03;Perdas pela Não Recuperabilidade de Ativos;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.04.04;Outras Receitas Operacionais;-431.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.04.04;Outras Receitas Operacionais;-9427.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.04.05;Outras Despesas Operacionais;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.04.05;Outras Despesas Operacionais;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.04.06;Resultado de Equivalência Patrimonial;-8855954.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.04.06;Resultado de Equivalência Patrimonial;-667797.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.05;Resultado Antes do Resultado Financeiro e dos Tributos;-8927786.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.05;Resultado Antes do Resultado Financeiro e dos Tributos;-754127.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.06;Resultado Financeiro;-263111.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.06;Resultado Financeiro;878985.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.06.01;Receitas Financeiras;44927.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.06.01;Receitas Financeiras;1713899.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.06.01.01;Receitas financeiras;3269.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.06.01.01;Receitas financeiras;734492.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.06.01.02;Variações cambiais, líquidas;-395377.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.06.01.02;Variações cambiais, líquidas;-27137.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.06.01.03;Instrumentos financeiros derivativos, líquidos;437035.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.06.01.03;Instrumentos financeiros derivativos, líquidos;1006544.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.06.02;Despesas Financeiras;-308038.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.06.02;Despesas Financeiras;-834914.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.06.02.01;Despesas financeiras;-308038.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.06.02.01;Despesas financeiras;-834914.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.07;Resultado Antes dos Tributos sobre o Lucro;-9190897.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.07;Resultado Antes dos Tributos sobre o Lucro;124858.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.08;Imposto de Renda e Contribuição Social sobre o Lucro;39526.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.08;Imposto de Renda e Contribuição Social sobre o Lucro;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.08.01;Corrente;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.08.01;Corrente;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.08.02;Diferido;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.08.02;Diferido;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.09;Resultado Líquido das Operações Continuadas;-9151371.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.09;Resultado Líquido das Operações Continuadas;124858.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.10;Resultado Líquido de Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.10;Resultado Líquido de Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.10.01;Lucro/Prejuízo Líquido das Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.10.01;Lucro/Prejuízo Líquido das Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.10.02;Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.10.02;Ganhos/Perdas Líquidas sobre Ativos de Operações Descontinuadas;0.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.11;Lucro/Prejuízo do Período;-9151371.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.11;Lucro/Prejuízo do Período;124858.0;S
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.99;Lucro por Ação - (Reais / Ação);0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.99;Lucro por Ação - (Reais / Ação);0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.99.01;Lucro Básico por Ação;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.99.01;Lucro Básico por Ação;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.99.01.01;ON;-26.32;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.99.01.01;ON;0.16;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.99.01.02;PN;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.99.01.02;PN;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.99.02;Lucro Diluído por Ação;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.99.02;Lucro Diluído por Ação;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.99.02.01;ON;-26.32;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.99.02.01;ON;0.16;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;PENÚLTIMO;2024-01-01;2024-12-31;3.99.02.02;PN;0.0;N
+09.305.994/0001-29;2025-12-31;3;AZUL S.A.;24112;DF Individual - Demonstração do Resultado;REAL;MIL;ÚLTIMO;2025-01-01;2025-12-31;3.99.02.02;PN;0.0;N
