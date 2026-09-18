@@ -1,0 +1,1 @@
+#separar por grupo, ativo, não ativo e tals

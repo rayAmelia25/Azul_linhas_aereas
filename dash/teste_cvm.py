@@ -1,48 +1,16 @@
-import streamlit as st
 import pandas as pd
-from pathlib import Path
+import streamlit as st
 
+caminho_arquivo = "data/tratados/cvm/itr/2021/azul_itr_cia_aberta_BPA_con_2021.csv"
 
-st.title("Validação dos dados da CVM")
+df = pd.read_csv(
+    caminho_arquivo,
+    sep=";",
+    encoding="utf-8-sig"
+)
 
-pasta = Path("data/tratados/cvm")
+st.write("Quantidade de linhas:", len(df))
+st.write("Tipos das colunas:")
+st.write(df.dtypes)
 
-arquivos = list(pasta.rglob("*.csv"))
-
-if not arquivos:
-
-    st.warning("Nenhum arquivo CSV encontrado.")
-
-else:
-
-    nomes_arquivos = [
-        arquivo.name for arquivo in arquivos
-    ]
-
-    arquivo_selecionado = st.selectbox(
-        "Selecione um arquivo:",
-        nomes_arquivos
-    )
-
-    caminho_arquivo = next(
-        arquivo
-        for arquivo in arquivos
-        if arquivo.name == arquivo_selecionado
-    )
-
-    df = pd.read_csv(
-        caminho_arquivo,
-        sep=";",
-        encoding="utf-8-sig"
-    )
-
-    st.write(f"**Arquivo:** {arquivo_selecionado}")
-
-    st.write(f"Quantidade de linhas: {df.shape[0]}")
-
-    st.write(f"Quantidade de colunas: {df.shape[1]}")
-
-    st.dataframe(
-        df,
-        use_container_width=True
-    )
+st.dataframe(df)
