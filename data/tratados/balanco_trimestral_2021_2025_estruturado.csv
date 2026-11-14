@@ -1,0 +1,1321 @@
+﻿indicador_en,indicador_pt,indicador_pt_normalizado,grupo,subgrupo,valor,periodo,ano,trimestre,semestre,frequencia
+Assets,Ativo,ativo,Ativo,,15192453.0,1T21,2021,1,1,trimestral
+Current assets,Circulante,circulante,Ativo,,4562773.0,1T21,2021,1,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,2275430.0,1T21,2021,1,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,10624.0,1T21,2021,1,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,1T21,2021,1,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,865604.0,1T21,2021,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,153316.0,1T21,2021,1,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,454160.0,1T21,2021,1,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,275294.0,1T21,2021,1,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,1T21,2021,1,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,137280.0,1T21,2021,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,83861.0,1T21,2021,1,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,148122.0,1T21,2021,1,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,159082.0,1T21,2021,1,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,10629680.0,1T21,2021,1,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,903318.0,1T21,2021,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,220861.0,1T21,2021,1,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1574623.0,1T21,2021,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,263339.0,1T21,2021,1,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,17165.0,1T21,2021,1,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,1T21,2021,1,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,1T21,2021,1,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,184540.0,1T21,2021,1,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,3996317.0,1T21,2021,1,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,477592.0,1T21,2021,1,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1805059.0,1T21,2021,1,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1186866.0,1T21,2021,1,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,15192453.0,1T21,2021,1,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,10251474.0,1T21,2021,1,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,524508.0,1T21,2021,1,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,0.0,1T21,2021,1,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3005412.0,1T21,2021,1,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,1T21,2021,1,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,1T21,2021,1,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,1852184.0,1T21,2021,1,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,105521.0,1T21,2021,1,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,2308888.0,1T21,2021,1,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,413167.0,1T21,2021,1,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,63079.0,1T21,2021,1,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,59518.0,1T21,2021,1,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,0.0,1T21,2021,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,116296.0,1T21,2021,1,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,237833.0,1T21,2021,1,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,859746.0,1T21,2021,1,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,810843.0,1T21,2021,1,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,21849809.0,1T21,2021,1,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,7254058.0,1T21,2021,1,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,0.0,1T21,2021,1,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,11134687.0,1T21,2021,1,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,1T21,2021,1,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,1T21,2021,1,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,1T21,2021,1,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,593524.0,1T21,2021,1,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,1T21,2021,1,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,180794.0,1T21,2021,1,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,1T21,2021,1,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,0.0,1T21,2021,1,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2260444.0,1T21,2021,1,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,426302.0,1T21,2021,1,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-16908830.0,1T21,2021,1,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2266992.0,1T21,2021,1,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,22320.0,1T21,2021,1,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1953738.0,1T21,2021,1,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-14807.0,1T21,2021,1,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,655.0,1T21,2021,1,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-21137728.0,1T21,2021,1,1,trimestral
+Assets,Ativo,ativo,Ativo,,17386730.0,2T21,2021,2,1,trimestral
+Current assets,Circulante,circulante,Ativo,,6755204.0,2T21,2021,2,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,4339074.0,2T21,2021,2,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,1049.0,2T21,2021,2,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,2T21,2021,2,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1111243.0,2T21,2021,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,79352.0,2T21,2021,2,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,479243.0,2T21,2021,2,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,257296.0,2T21,2021,2,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,2T21,2021,2,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,124374.0,2T21,2021,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,68195.0,2T21,2021,2,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,152774.0,2T21,2021,2,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,142604.0,2T21,2021,2,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,10631526.0,2T21,2021,2,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,824036.0,2T21,2021,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,202513.0,2T21,2021,2,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1410019.0,2T21,2021,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,222918.0,2T21,2021,2,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,16385.0,2T21,2021,2,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,2T21,2021,2,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,2T21,2021,2,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,228413.0,2T21,2021,2,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,4077500.0,2T21,2021,2,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,446965.0,2T21,2021,2,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1879554.0,2T21,2021,2,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1323223.0,2T21,2021,2,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,17386730.0,2T21,2021,2,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,10362983.0,2T21,2021,2,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,250535.0,2T21,2021,2,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,0.0,2T21,2021,2,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3152376.0,2T21,2021,2,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,2T21,2021,2,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,2T21,2021,2,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,1715689.0,2T21,2021,2,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,420606.0,2T21,2021,2,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,2564234.0,2T21,2021,2,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,549951.0,2T21,2021,2,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,19850.0,2T21,2021,2,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,47843.0,2T21,2021,2,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,0.0,2T21,2021,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,78133.0,2T21,2021,2,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,213828.0,2T21,2021,2,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,926672.0,2T21,2021,2,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,843872.0,2T21,2021,2,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,22766295.0,2T21,2021,2,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,9646952.0,2T21,2021,2,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,0.0,2T21,2021,2,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,9775603.0,2T21,2021,2,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,2T21,2021,2,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,2T21,2021,2,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,2T21,2021,2,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,445093.0,2T21,2021,2,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,2T21,2021,2,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,177716.0,2T21,2021,2,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,2T21,2021,2,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,0.0,2T21,2021,2,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,1862221.0,2T21,2021,2,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,858710.0,2T21,2021,2,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-15742548.0,2T21,2021,2,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2289312.0,2T21,2021,2,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,1024.0,2T21,2021,2,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1959526.0,2T21,2021,2,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-17390.0,2T21,2021,2,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,655.0,2T21,2021,2,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-19975675.0,2T21,2021,2,1,trimestral
+Assets,Ativo,ativo,Ativo,,17777994.0,3T21,2021,3,2,trimestral
+Current assets,Circulante,circulante,Ativo,,6771661.0,3T21,2021,3,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,3633321.0,3T21,2021,3,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,1180.0,3T21,2021,3,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,3T21,2021,3,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1566095.0,3T21,2021,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,86569.0,3T21,2021,3,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,519557.0,3T21,2021,3,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,389793.0,3T21,2021,3,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,3T21,2021,3,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,132987.0,3T21,2021,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,79608.0,3T21,2021,3,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,302426.0,3T21,2021,3,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,60125.0,3T21,2021,3,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,11006333.0,3T21,2021,3,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,878564.0,3T21,2021,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,206893.0,3T21,2021,3,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1558300.0,3T21,2021,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,221710.0,3T21,2021,3,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,16544.0,3T21,2021,3,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,3T21,2021,3,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,3T21,2021,3,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,358510.0,3T21,2021,3,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,4122794.0,3T21,2021,3,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,418400.0,3T21,2021,3,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1879115.0,3T21,2021,3,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1345503.0,3T21,2021,3,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,17777994.0,3T21,2021,3,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,11436049.0,3T21,2021,3,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,749912.0,3T21,2021,3,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,0.0,3T21,2021,3,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3371795.0,3T21,2021,3,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,3T21,2021,3,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,3T21,2021,3,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,1929019.0,3T21,2021,3,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,497007.0,3T21,2021,3,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,3031291.0,3T21,2021,3,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,584715.0,3T21,2021,3,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,5252.0,3T21,2021,3,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,60694.0,3T21,2021,3,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,0.0,3T21,2021,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,79786.0,3T21,2021,3,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,145461.0,3T21,2021,3,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,849972.0,3T21,2021,3,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,628152.0,3T21,2021,3,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,24287879.0,3T21,2021,3,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,9646250.0,3T21,2021,3,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,0.0,3T21,2021,3,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,10623669.0,3T21,2021,3,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,3T21,2021,3,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,3T21,2021,3,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,3T21,2021,3,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,451364.0,3T21,2021,3,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,84981.0,3T21,2021,3,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,178644.0,3T21,2021,3,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,3T21,2021,3,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,1450.0,3T21,2021,3,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2175877.0,3T21,2021,3,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1125644.0,3T21,2021,3,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-17945934.0,3T21,2021,3,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2290337.0,3T21,2021,3,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,539.0,3T21,2021,3,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1941100.0,3T21,2021,3,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-6592.0,3T21,2021,3,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,655.0,3T21,2021,3,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-22171973.0,3T21,2021,3,2,trimestral
+Assets,Ativo,ativo,Ativo,,18533473.0,4T21,2021,4,2,trimestral
+Current assets,Circulante,circulante,Ativo,,5846336.0,4T21,2021,4,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,3073799.0,4T21,2021,4,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,1430.0,4T21,2021,4,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,4T21,2021,4,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,997893.0,4T21,2021,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,76199.0,4T21,2021,4,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,571924.0,4T21,2021,4,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,410912.0,4T21,2021,4,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,4T21,2021,4,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,109699.0,4T21,2021,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,83177.0,4T21,2021,4,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,447792.0,4T21,2021,4,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,73511.0,4T21,2021,4,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,12687137.0,4T21,2021,4,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,906719.0,4T21,2021,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,197999.0,4T21,2021,4,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1553507.0,4T21,2021,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,270640.0,4T21,2021,4,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,313365.0,4T21,2021,4,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,4T21,2021,4,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,4T21,2021,4,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,126100.0,4T21,2021,4,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,5508928.0,4T21,2021,4,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,490667.0,4T21,2021,4,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1961174.0,4T21,2021,4,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1358038.0,4T21,2021,4,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,18533473.0,4T21,2021,4,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,11710248.0,4T21,2021,4,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,984266.0,4T21,2021,4,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,39124.0,4T21,2021,4,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3497665.0,4T21,2021,4,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,4T21,2021,4,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,4T21,2021,4,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,1534174.0,4T21,2021,4,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,472364.0,4T21,2021,4,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,3063816.0,4T21,2021,4,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,459697.0,4T21,2021,4,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,92793.0,4T21,2021,4,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,150084.0,4T21,2021,4,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,0.0,4T21,2021,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,77509.0,4T21,2021,4,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,173686.0,4T21,2021,4,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,977103.0,4T21,2021,4,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,660331.0,4T21,2021,4,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,25156223.0,4T21,2021,4,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,7161464.0,4T21,2021,4,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1833877.0,4T21,2021,4,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,11392910.0,4T21,2021,4,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,4T21,2021,4,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,4T21,2021,4,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,4T21,2021,4,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,342200.0,4T21,2021,4,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,4T21,2021,4,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,209542.0,4T21,2021,4,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,4T21,2021,4,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,101046.0,4T21,2021,4,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2522486.0,4T21,2021,4,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1592698.0,4T21,2021,4,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-18332998.0,4T21,2021,4,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2290876.0,4T21,2021,4,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,120.0,4T21,2021,4,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1946472.0,4T21,2021,4,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-11959.0,4T21,2021,4,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5799.0,4T21,2021,4,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-22564306.0,4T21,2021,4,2,trimestral
+Assets,Ativo,ativo,Ativo,,17785616.0,1T22,2022,1,1,trimestral
+Current assets,Circulante,circulante,Ativo,,5030171.0,1T22,2022,1,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1857771.0,1T22,2022,1,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,1509.0,1T22,2022,1,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,1T22,2022,1,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1329381.0,1T22,2022,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,69607.0,1T22,2022,1,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,601815.0,1T22,2022,1,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,315126.0,1T22,2022,1,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,1T22,2022,1,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,152584.0,1T22,2022,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,261074.0,1T22,2022,1,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,355866.0,1T22,2022,1,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,85438.0,1T22,2022,1,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,12755445.0,1T22,2022,1,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,722088.0,1T22,2022,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,154094.0,1T22,2022,1,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1561949.0,1T22,2022,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,227351.0,1T22,2022,1,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,358292.0,1T22,2022,1,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,1T22,2022,1,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,1T22,2022,1,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,126266.0,1T22,2022,1,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,5635849.0,1T22,2022,1,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,605536.0,1T22,2022,1,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1991084.0,1T22,2022,1,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1372936.0,1T22,2022,1,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,17785616.0,1T22,2022,1,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,11796120.0,1T22,2022,1,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1472557.0,1T22,2022,1,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,37648.0,1T22,2022,1,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3010403.0,1T22,2022,1,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,1T22,2022,1,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,1T22,2022,1,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,1727138.0,1T22,2022,1,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,477399.0,1T22,2022,1,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,3048012.0,1T22,2022,1,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,478943.0,1T22,2022,1,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,44505.0,1T22,2022,1,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,88860.0,1T22,2022,1,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,0.0,1T22,2022,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,66004.0,1T22,2022,1,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,99730.0,1T22,2022,1,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,970107.0,1T22,2022,1,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,752213.0,1T22,2022,1,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,21628325.0,1T22,2022,1,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,5893102.0,1T22,2022,1,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1606563.0,1T22,2022,1,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,9697507.0,1T22,2022,1,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,1T22,2022,1,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,1T22,2022,1,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,1T22,2022,1,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,540831.0,1T22,2022,1,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,1T22,2022,1,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,186911.0,1T22,2022,1,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,1T22,2022,1,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,91652.0,1T22,2022,1,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2112467.0,1T22,2022,1,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1499292.0,1T22,2022,1,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-15638829.0,1T22,2022,1,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2290996.0,1T22,2022,1,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,22859.0,1T22,2022,1,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1950778.0,1T22,2022,1,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-11999.0,1T22,2022,1,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5799.0,1T22,2022,1,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-19897262.0,1T22,2022,1,1,trimestral
+Assets,Ativo,ativo,Ativo,,18529571.0,2T22,2022,2,1,trimestral
+Current assets,Circulante,circulante,Ativo,,5719831.0,2T22,2022,2,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,2033628.0,2T22,2022,2,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,915.0,2T22,2022,2,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,2T22,2022,2,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1561404.0,2T22,2022,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,97178.0,2T22,2022,2,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,658199.0,2T22,2022,2,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,438822.0,2T22,2022,2,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,2T22,2022,2,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,159141.0,2T22,2022,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,357523.0,2T22,2022,2,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,365699.0,2T22,2022,2,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,47322.0,2T22,2022,2,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,12809740.0,2T22,2022,2,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,701933.0,2T22,2022,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,145538.0,2T22,2022,2,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1753518.0,2T22,2022,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,185989.0,2T22,2022,2,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,390597.0,2T22,2022,2,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,2T22,2022,2,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,2T22,2022,2,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,32707.0,2T22,2022,2,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,5468479.0,2T22,2022,2,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,787472.0,2T22,2022,2,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1970370.0,2T22,2022,2,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1373137.0,2T22,2022,2,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,18529571.0,2T22,2022,2,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,13569350.0,2T22,2022,2,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1257809.0,2T22,2022,2,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,14505.0,2T22,2022,2,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3463498.0,2T22,2022,2,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,2T22,2022,2,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,2T22,2022,2,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,2382817.0,2T22,2022,2,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,480481.0,2T22,2022,2,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,3981133.0,2T22,2022,2,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,456337.0,2T22,2022,2,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,33101.0,2T22,2022,2,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,103086.0,2T22,2022,2,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,0.0,2T22,2022,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,65899.0,2T22,2022,2,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,48683.0,2T22,2022,2,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,991338.0,2T22,2022,2,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,771144.0,2T22,2022,2,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,23077021.0,2T22,2022,2,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,6519205.0,2T22,2022,2,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1434852.0,2T22,2022,2,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,10485994.0,2T22,2022,2,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,2T22,2022,2,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,2T22,2022,2,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,2T22,2022,2,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,512219.0,2T22,2022,2,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,2T22,2022,2,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,129915.0,2T22,2022,2,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,2T22,2022,2,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,84071.0,2T22,2022,2,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2378288.0,2T22,2022,2,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1532477.0,2T22,2022,2,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-18116800.0,2T22,2022,2,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2313855.0,2T22,2022,2,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,68.0,2T22,2022,2,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1954094.0,2T22,2022,2,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-12882.0,2T22,2022,2,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5799.0,2T22,2022,2,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-22377734.0,2T22,2022,2,1,trimestral
+Assets,Ativo,ativo,Ativo,,18318914.0,3T22,2022,3,2,trimestral
+Current assets,Circulante,circulante,Ativo,,5129421.0,3T22,2022,3,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1103748.0,3T22,2022,3,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,243.0,3T22,2022,3,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,3T22,2022,3,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,2170556.0,3T22,2022,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,94861.0,3T22,2022,3,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,678456.0,3T22,2022,3,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,460230.0,3T22,2022,3,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,3T22,2022,3,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,207678.0,3T22,2022,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,75830.0,3T22,2022,3,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,328284.0,3T22,2022,3,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,9535.0,3T22,2022,3,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,13189493.0,3T22,2022,3,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,691044.0,3T22,2022,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,120133.0,3T22,2022,3,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1993826.0,3T22,2022,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,147725.0,3T22,2022,3,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,281740.0,3T22,2022,3,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,3T22,2022,3,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,3T22,2022,3,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,27070.0,3T22,2022,3,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,5833899.0,3T22,2022,3,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,759959.0,3T22,2022,3,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1936752.0,3T22,2022,3,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1397345.0,3T22,2022,3,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,18318914.0,3T22,2022,3,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,14857615.0,3T22,2022,3,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1273079.0,3T22,2022,3,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,43142.0,3T22,2022,3,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3767801.0,3T22,2022,3,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,3T22,2022,3,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,3T22,2022,3,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,2653198.0,3T22,2022,3,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,495022.0,3T22,2022,3,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,4250548.0,3T22,2022,3,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,531677.0,3T22,2022,3,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,12399.0,3T22,2022,3,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,126048.0,3T22,2022,3,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,0.0,3T22,2022,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,160074.0,3T22,2022,3,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,36928.0,3T22,2022,3,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,991525.0,3T22,2022,3,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,1011196.0,3T22,2022,3,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,23591806.0,3T22,2022,3,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,6460614.0,3T22,2022,3,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1723638.0,3T22,2022,3,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,10605914.0,3T22,2022,3,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,3T22,2022,3,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,3T22,2022,3,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,3T22,2022,3,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,428939.0,3T22,2022,3,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,3T22,2022,3,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,105481.0,3T22,2022,3,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,3T22,2022,3,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,77833.0,3T22,2022,3,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2712224.0,3T22,2022,3,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1477163.0,3T22,2022,3,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-20130507.0,3T22,2022,3,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2313924.0,3T22,2022,3,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,17.0,3T22,2022,3,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1945404.0,3T22,2022,3,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-2921.0,3T22,2022,3,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5799.0,3T22,2022,3,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-24392730.0,3T22,2022,3,2,trimestral
+Assets,Ativo,ativo,Ativo,,18721293.244594514,4T22,2022,4,2,trimestral
+Current assets,Circulante,circulante,Ativo,,4871935.908704514,4T22,2022,4,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,668347.9087045139,4T22,2022,4,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,0.0,4T22,2022,4,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,4T22,2022,4,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1803998.0,4T22,2022,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,70193.0,4T22,2022,4,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,721738.0,4T22,2022,4,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,1025168.0,4T22,2022,4,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,4T22,2022,4,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,234891.0,4T22,2022,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,36054.0,4T22,2022,4,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,304588.0,4T22,2022,4,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,6958.0,4T22,2022,4,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,13849357.33589,4T22,2022,4,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,733043.33589,4T22,2022,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,105860.0,4T22,2022,4,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1514393.0,4T22,2022,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,235896.0,4T22,2022,4,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,319000.0,4T22,2022,4,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,4T22,2022,4,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,4T22,2022,4,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,9005.0,4T22,2022,4,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,6773372.0,4T22,2022,4,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,779176.0,4T22,2022,4,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1953089.0,4T22,2022,4,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1426523.0,4T22,2022,4,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,18721292.0,4T22,2022,4,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,15056102.0,4T22,2022,4,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1112940.0,4T22,2022,4,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,14789.0,4T22,2022,4,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,4025948.0,4T22,2022,4,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,4T22,2022,4,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,4T22,2022,4,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,3186195.25,4T22,2022,4,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,502872.0,4T22,2022,4,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,4140025.0,4T22,2022,4,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,479412.0,4T22,2022,4,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,84985.0,4T22,2022,4,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,168636.0,4T22,2022,4,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,24952.0,4T22,2022,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,69364.0,4T22,2022,4,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,13822.0,4T22,2022,4,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,834288.0,4T22,2022,4,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,900745.75,4T22,2022,4,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,22672688.0,4T22,2022,4,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,6119759.0,4T22,2022,4,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1388930.0,4T22,2022,4,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,10556885.0,4T22,2022,4,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,4T22,2022,4,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,4T22,2022,4,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,4T22,2022,4,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,516971.0,4T22,2022,4,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,4T22,2022,4,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,175210.0,4T22,2022,4,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,4T22,2022,4,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,71595.0,4T22,2022,4,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2408706.0,4T22,2022,4,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1434632.0,4T22,2022,4,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-19007498.0,4T22,2022,4,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2313941.0,4T22,2022,4,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,61.0,4T22,2022,4,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1970099.0,4T22,2022,4,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-10204.0,4T22,2022,4,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5281.0,4T22,2022,4,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-23286676.0,4T22,2022,4,2,trimestral
+Assets,Ativo,ativo,Ativo,,17402237.34073148,1T23,2023,1,1,trimestral
+Current assets,Circulante,circulante,Ativo,,3949701.21447148,1T23,2023,1,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,466350.21447148,1T23,2023,1,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,0.0,1T23,2023,1,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,1T23,2023,1,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1267103.0,1T23,2023,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,65790.0,1T23,2023,1,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,718869.0,1T23,2023,1,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,940954.0,1T23,2023,1,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,1T23,2023,1,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,234748.0,1T23,2023,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,21205.0,1T23,2023,1,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,228057.0,1T23,2023,1,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,6625.0,1T23,2023,1,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,13452536.12626,1T23,2023,1,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,753779.12626,1T23,2023,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,89896.0,1T23,2023,1,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1622765.0,1T23,2023,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,1T23,2023,1,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,194031.0,1T23,2023,1,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,1T23,2023,1,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,1T23,2023,1,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,8813.0,1T23,2023,1,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,6629632.0,1T23,2023,1,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,764455.0,1T23,2023,1,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1925503.0,1T23,2023,1,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1463662.0,1T23,2023,1,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,17402241.0,1T23,2023,1,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,15884448.0,1T23,2023,1,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1400811.0,1T23,2023,1,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,41031.0,1T23,2023,1,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,4578717.0,1T23,2023,1,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,1T23,2023,1,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,1T23,2023,1,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,2715650.0,1T23,2023,1,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,504932.0,1T23,2023,1,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,4091940.0,1T23,2023,1,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,491701.0,1T23,2023,1,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,62798.0,1T23,2023,1,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,93183.0,1T23,2023,1,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,42228.0,1T23,2023,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,139941.0,1T23,2023,1,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,8250.0,1T23,2023,1,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,1079069.0,1T23,2023,1,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,1139129.0,1T23,2023,1,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,21244543.0,1T23,2023,1,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,5720103.0,1T23,2023,1,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1482745.0,1T23,2023,1,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,9921373.0,1T23,2023,1,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,1T23,2023,1,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,1T23,2023,1,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,1T23,2023,1,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,403249.0,1T23,2023,1,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,1T23,2023,1,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,0.0,1T23,2023,1,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,1T23,2023,1,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,148277.0,1T23,2023,1,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2140378.0,1T23,2023,1,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1428418.0,1T23,2023,1,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-19726750.0,1T23,2023,1,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2314002.0,1T23,2023,1,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,0.0,1T23,2023,1,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,1990369.0,1T23,2023,1,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-13085.0,1T23,2023,1,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5281.0,1T23,2023,1,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-24023317.0,1T23,2023,1,1,trimestral
+Assets,Ativo,ativo,Ativo,,17121995.0,2T23,2023,2,1,trimestral
+Current assets,Circulante,circulante,Ativo,,4628296.0,2T23,2023,2,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,616210.0,2T23,2023,2,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,0.0,2T23,2023,2,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,2T23,2023,2,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1351188.0,2T23,2023,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,67599.0,2T23,2023,2,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,722736.0,2T23,2023,2,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,1285984.0,2T23,2023,2,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,2T23,2023,2,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,188019.0,2T23,2023,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,29492.0,2T23,2023,2,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,354776.0,2T23,2023,2,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,12292.0,2T23,2023,2,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,12493699.0,2T23,2023,2,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,742090.0,2T23,2023,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,72491.0,2T23,2023,2,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1331318.0,2T23,2023,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,356.0,2T23,2023,2,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,188549.0,2T23,2023,2,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,2T23,2023,2,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,2T23,2023,2,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,8447.0,2T23,2023,2,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,6040192.0,2T23,2023,2,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,717871.0,2T23,2023,2,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1924587.0,2T23,2023,2,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1467798.0,2T23,2023,2,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,17121999.0,2T23,2023,2,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,16822998.0,2T23,2023,2,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1694457.0,2T23,2023,2,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,12946.0,2T23,2023,2,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,4641265.0,2T23,2023,2,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,2T23,2023,2,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,2T23,2023,2,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,2912550.0,2T23,2023,2,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,513275.0,2T23,2023,2,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,4476074.0,2T23,2023,2,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,474426.0,2T23,2023,2,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,21906.0,2T23,2023,2,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,87295.0,2T23,2023,2,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,42228.0,2T23,2023,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,120534.0,2T23,2023,2,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,26494.0,2T23,2023,2,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,1006696.0,2T23,2023,2,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,1306127.0,2T23,2023,2,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,19980999.0,2T23,2023,2,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,5399608.0,2T23,2023,2,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1641536.0,2T23,2023,2,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,8833430.0,2T23,2023,2,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,0.0,2T23,2023,2,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,2T23,2023,2,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,0.0,2T23,2023,2,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,436155.0,2T23,2023,2,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,2T23,2023,2,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,127.0,2T23,2023,2,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,2T23,2023,2,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,136856.0,2T23,2023,2,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2071153.0,2T23,2023,2,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1462134.0,2T23,2023,2,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-19681998.0,2T23,2023,2,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2314002.0,2T23,2023,2,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,819.0,2T23,2023,2,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,2010393.0,2T23,2023,2,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-13085.0,2T23,2023,2,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5281.0,2T23,2023,2,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-23999408.0,2T23,2023,2,1,trimestral
+Assets,Ativo,ativo,Ativo,,19605095.0,3T23,2023,3,2,trimestral
+Current assets,Circulante,circulante,Ativo,,5931435.0,3T23,2023,3,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1670056.0,3T23,2023,3,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,0.0,3T23,2023,3,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,3T23,2023,3,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1721869.0,3T23,2023,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,71583.0,3T23,2023,3,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,751578.0,3T23,2023,3,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,987027.0,3T23,2023,3,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,3T23,2023,3,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,224290.0,3T23,2023,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,113059.0,3T23,2023,3,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,334372.0,3T23,2023,3,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,57601.0,3T23,2023,3,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,13673660.0,3T23,2023,3,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,744309.0,3T23,2023,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,61739.0,3T23,2023,3,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1426542.0,3T23,2023,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,3T23,2023,3,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,199211.0,3T23,2023,3,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,3T23,2023,3,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,3T23,2023,3,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,7011.0,3T23,2023,3,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,7086824.0,3T23,2023,3,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,686327.0,3T23,2023,3,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,1998860.0,3T23,2023,3,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1462837.0,3T23,2023,3,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,19605093.0,3T23,2023,3,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,14064057.0,3T23,2023,3,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1269858.0,3T23,2023,3,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,31955.0,3T23,2023,3,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3441644.0,3T23,2023,3,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,99235.0,3T23,2023,3,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,109967.0,3T23,2023,3,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,1901949.0,3T23,2023,3,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,586624.0,3T23,2023,3,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,4333647.0,3T23,2023,3,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,514904.0,3T23,2023,3,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,421.0,3T23,2023,3,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,73485.0,3T23,2023,3,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,45683.0,3T23,2023,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,9723.0,3T23,2023,3,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,24351.0,3T23,2023,3,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,713629.0,3T23,2023,3,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,-10617359.0,3T23,2023,3,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,26827162.0,3T23,2023,3,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,9153444.0,3T23,2023,3,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1118815.0,3T23,2023,3,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,8974631.0,3T23,2023,3,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,930655.0,3T23,2023,3,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,1444879.0,3T23,2023,3,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,1444879.0,3T23,2023,3,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1426007.0,3T23,2023,3,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,3T23,2023,3,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,325.0,3T23,2023,3,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,3T23,2023,3,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,123708.0,3T23,2023,3,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2139925.0,3T23,2023,3,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1514773.0,3T23,2023,3,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-21286126.0,3T23,2023,3,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2314821.0,3T23,2023,3,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,789.0,3T23,2023,3,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,2016320.0,3T23,2023,3,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-9041.0,3T23,2023,3,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5281.0,3T23,2023,3,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-25614296.0,3T23,2023,3,2,trimestral
+Assets,Ativo,ativo,Ativo,,20532908.0,4T23,2023,4,2,trimestral
+Current assets,Circulante,circulante,Ativo,,5044147.0,4T23,2023,4,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1897336.0,4T23,2023,4,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,0.0,4T23,2023,4,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,4T23,2023,4,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1109408.0,4T23,2023,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,14592.0,4T23,2023,4,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,799208.0,4T23,2023,4,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,515692.0,4T23,2023,4,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,4T23,2023,4,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,219433.0,4T23,2023,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,21909.0,4T23,2023,4,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,221051.0,4T23,2023,4,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,245518.0,4T23,2023,4,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,15488761.0,4T23,2023,4,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,780312.0,4T23,2023,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,16210.0,4T23,2023,4,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1777804.0,4T23,2023,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,4T23,2023,4,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,4T23,2023,4,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,4T23,2023,4,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,4T23,2023,4,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,143781.0,4T23,2023,4,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,8075901.0,4T23,2023,4,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,935657.0,4T23,2023,4,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,2295849.0,4T23,2023,4,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1463247.0,4T23,2023,4,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,20532906.0,4T23,2023,4,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,14748880.0,4T23,2023,4,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1100051.0,4T23,2023,4,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,25807.0,4T23,2023,4,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3349056.0,4T23,2023,4,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,121948.0,4T23,2023,4,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,216388.0,4T23,2023,4,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,2201984.0,4T23,2023,4,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,1171679.0,4T23,2023,4,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,5205876.0,4T23,2023,4,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,474797.0,4T23,2023,4,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,75857.0,4T23,2023,4,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,96485.0,4T23,2023,4,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,45683.0,4T23,2023,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,68905.0,4T23,2023,4,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,14159.0,4T23,2023,4,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,736430.0,4T23,2023,4,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,1015454.0,4T23,2023,4,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,27111870.0,4T23,2023,4,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,8598861.0,4T23,2023,4,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1175803.0,4T23,2023,4,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,9106771.0,4T23,2023,4,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,908897.0,4T23,2023,4,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,1443351.0,4T23,2023,4,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,1443351.0,4T23,2023,4,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1320927.0,4T23,2023,4,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,4T23,2023,4,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,840.0,4T23,2023,4,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,4T23,2023,4,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,151813.0,4T23,2023,4,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2404423.0,4T23,2023,4,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,2000184.0,4T23,2023,4,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-21327844.0,4T23,2023,4,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2314821.0,4T23,2023,4,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,789.0,4T23,2023,4,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,2029610.0,4T23,2023,4,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-9041.0,4T23,2023,4,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,3106.0,4T23,2023,4,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-25667129.0,4T23,2023,4,2,trimestral
+Assets,Ativo,ativo,Ativo,,20895883.0,1T24,2024,1,1,trimestral
+Current assets,Circulante,circulante,Ativo,,4863163.0,1T24,2024,1,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1337606.0,1T24,2024,1,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,0.0,1T24,2024,1,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,1T24,2024,1,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1361210.0,1T24,2024,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,15057.0,1T24,2024,1,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,943337.0,1T24,2024,1,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,503157.0,1T24,2024,1,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,1T24,2024,1,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,205320.0,1T24,2024,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,20849.0,1T24,2024,1,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,203463.0,1T24,2024,1,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,273164.0,1T24,2024,1,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,16032720.0,1T24,2024,1,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,791545.0,1T24,2024,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,13597.0,1T24,2024,1,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,1966840.0,1T24,2024,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,55.0,1T24,2024,1,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,1T24,2024,1,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,1T24,2024,1,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,1T24,2024,1,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,311241.0,1T24,2024,1,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,7933889.0,1T24,2024,1,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,1007122.0,1T24,2024,1,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,2529318.0,1T24,2024,1,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1479113.0,1T24,2024,1,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,20895882.0,1T24,2024,1,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,14411850.0,1T24,2024,1,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1245705.0,1T24,2024,1,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,63218.0,1T24,2024,1,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3108391.0,1T24,2024,1,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,125244.0,1T24,2024,1,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,428538.0,1T24,2024,1,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,2338573.0,1T24,2024,1,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,1140348.0,1T24,2024,1,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,5168717.0,1T24,2024,1,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,490320.0,1T24,2024,1,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,1119.0,1T24,2024,1,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,87041.0,1T24,2024,1,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,45683.0,1T24,2024,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,15625.0,1T24,2024,1,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,7993.0,1T24,2024,1,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,399147.0,1T24,2024,1,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,886536.0,1T24,2024,1,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,28852455.0,1T24,2024,1,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,9884104.0,1T24,2024,1,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1070272.0,1T24,2024,1,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,9073291.0,1T24,2024,1,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,947378.0,1T24,2024,1,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,1634241.0,1T24,2024,1,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,1634241.0,1T24,2024,1,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1296429.0,1T24,2024,1,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,1T24,2024,1,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,76.0,1T24,2024,1,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,1T24,2024,1,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,133613.0,1T24,2024,1,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2846750.0,1T24,2024,1,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1966301.0,1T24,2024,1,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-22368423.0,1T24,2024,1,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2315610.0,1T24,2024,1,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,18.0,1T24,2024,1,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,2041833.0,1T24,2024,1,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-11566.0,1T24,2024,1,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,3106.0,1T24,2024,1,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-26717424.0,1T24,2024,1,1,trimestral
+Assets,Ativo,ativo,Ativo,,22831224.0,2T24,2024,2,1,trimestral
+Current assets,Circulante,circulante,Ativo,,4954505.0,2T24,2024,2,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1439581.0,2T24,2024,2,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,35931.0,2T24,2024,2,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,2T24,2024,2,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1033976.0,2T24,2024,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,8330.0,2T24,2024,2,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,1000425.0,2T24,2024,2,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,698584.0,2T24,2024,2,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,2T24,2024,2,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,218354.0,2T24,2024,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,4303.0,2T24,2024,2,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,193458.0,2T24,2024,2,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,321563.0,2T24,2024,2,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,17876719.0,2T24,2024,2,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,956315.0,2T24,2024,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,5551.0,2T24,2024,2,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,2200394.0,2T24,2024,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,88.0,2T24,2024,2,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,2T24,2024,2,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,2T24,2024,2,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,2T24,2024,2,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,530869.0,2T24,2024,2,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,8855253.0,2T24,2024,2,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,1037430.0,2T24,2024,2,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,2787127.0,2T24,2024,2,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1503692.0,2T24,2024,2,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,22831225.0,2T24,2024,2,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,17403630.0,2T24,2024,2,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1495194.0,2T24,2024,2,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,28994.0,2T24,2024,2,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3642153.0,2T24,2024,2,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,139346.0,2T24,2024,2,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,712974.0,2T24,2024,2,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,3193303.0,2T24,2024,2,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,913129.0,2T24,2024,2,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,5821495.0,2T24,2024,2,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,533168.0,2T24,2024,2,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,1079.0,2T24,2024,2,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,84285.0,2T24,2024,2,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,77531.0,2T24,2024,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,35499.0,2T24,2024,2,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,25643.0,2T24,2024,2,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,624708.0,2T24,2024,2,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,988258.0,2T24,2024,2,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,31594155.0,2T24,2024,2,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,11098565.0,2T24,2024,2,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,971997.0,2T24,2024,2,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,10666880.0,2T24,2024,2,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,1064596.0,2T24,2024,2,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,1659882.0,2T24,2024,2,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,1659882.0,2T24,2024,2,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1329969.0,2T24,2024,2,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,2T24,2024,2,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,20.0,2T24,2024,2,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,2T24,2024,2,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,89446.0,2T24,2024,2,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2972949.0,2T24,2024,2,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1739851.0,2T24,2024,2,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-26166560.0,2T24,2024,2,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2315628.0,2T24,2024,2,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,0.0,2T24,2024,2,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,2053308.0,2T24,2024,2,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-11566.0,2T24,2024,2,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,3106.0,2T24,2024,2,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-30527036.0,2T24,2024,2,1,trimestral
+Assets,Ativo,ativo,Ativo,,23404151.0,3T24,2024,3,2,trimestral
+Current assets,Circulante,circulante,Ativo,,5011150.0,3T24,2024,3,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1082155.0,3T24,2024,3,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,56980.0,3T24,2024,3,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,3T24,2024,3,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1356737.0,3T24,2024,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,0.0,3T24,2024,3,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,1026505.0,3T24,2024,3,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,596414.0,3T24,2024,3,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,3T24,2024,3,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,221546.0,3T24,2024,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,0.0,3T24,2024,3,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,194608.0,3T24,2024,3,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,476205.0,3T24,2024,3,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,18393001.0,3T24,2024,3,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,966819.0,3T24,2024,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,0.0,3T24,2024,3,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,2220212.0,3T24,2024,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,3T24,2024,3,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,3T24,2024,3,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,0.0,3T24,2024,3,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,3T24,2024,3,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,518016.0,3T24,2024,3,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,9040773.0,3T24,2024,3,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,1154453.0,3T24,2024,3,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,2973462.0,3T24,2024,3,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1519266.0,3T24,2024,3,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,23404152.0,3T24,2024,3,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,18521886.0,3T24,2024,3,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,1560684.0,3T24,2024,3,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,69019.0,3T24,2024,3,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3812070.0,3T24,2024,3,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,107374.0,3T24,2024,3,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,873979.0,3T24,2024,3,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,3749076.0,3T24,2024,3,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,747952.0,3T24,2024,3,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,5813008.0,3T24,2024,3,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,564330.0,3T24,2024,3,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,4223.0,3T24,2024,3,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,90227.0,3T24,2024,3,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,78627.0,3T24,2024,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,117416.0,3T24,2024,3,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,7346.0,3T24,2024,3,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,662549.0,3T24,2024,3,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,1011958.0,3T24,2024,3,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,30918258.0,3T24,2024,3,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,10965989.0,3T24,2024,3,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1171121.0,3T24,2024,3,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,10455707.0,3T24,2024,3,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,1054783.0,3T24,2024,3,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,1467030.0,3T24,2024,3,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,1467030.0,3T24,2024,3,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1199235.0,3T24,2024,3,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,3T24,2024,3,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,0.0,3T24,2024,3,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,3T24,2024,3,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,78026.0,3T24,2024,3,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2967835.0,3T24,2024,3,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1558532.0,3T24,2024,3,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-26035992.0,3T24,2024,3,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2315628.0,3T24,2024,3,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,0.0,3T24,2024,3,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,2055461.0,3T24,2024,3,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-4334.0,3T24,2024,3,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,3106.0,3T24,2024,3,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-30405853.0,3T24,2024,3,2,trimestral
+Assets,Ativo,ativo,Ativo,,26274943.0,4T24,2024,4,2,trimestral
+Current assets,Circulante,circulante,Ativo,,5658020.0,4T24,2024,4,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1210009.0,4T24,2024,4,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,71898.0,4T24,2024,4,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,4T24,2024,4,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1775374.0,4T24,2024,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,0.0,4T24,2024,4,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,943578.0,4T24,2024,4,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,328876.0,4T24,2024,4,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,4T24,2024,4,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,203951.0,4T24,2024,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,0.0,4T24,2024,4,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,274282.0,4T24,2024,4,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,850052.0,4T24,2024,4,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,20616923.0,4T24,2024,4,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,1040454.0,4T24,2024,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,0.0,4T24,2024,4,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,3063786.0,4T24,2024,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,4T24,2024,4,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,4T24,2024,4,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,36136.0,4T24,2024,4,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,4T24,2024,4,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,411701.0,4T24,2024,4,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,10175605.0,4T24,2024,4,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,1295074.0,4T24,2024,4,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,3034554.0,4T24,2024,4,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1559613.0,4T24,2024,4,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,26274945.0,4T24,2024,4,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,21342295.0,4T24,2024,4,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,2207199.0,4T24,2024,4,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,124321.0,4T24,2024,4,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,4928197.0,4T24,2024,4,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,144706.0,4T24,2024,4,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,1241318.0,4T24,2024,4,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,4134761.0,4T24,2024,4,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,792680.0,4T24,2024,4,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,6326057.0,4T24,2024,4,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,508448.0,4T24,2024,4,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,12464.0,4T24,2024,4,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,93739.0,4T24,2024,4,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,31316.0,4T24,2024,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,65376.0,4T24,2024,4,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,5995.0,4T24,2024,4,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,670722.0,4T24,2024,4,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,847676.0,4T24,2024,4,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,35367916.0,4T24,2024,4,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,12774218.0,4T24,2024,4,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1058047.0,4T24,2024,4,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,12410501.0,4T24,2024,4,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,1212278.0,4T24,2024,4,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,1441847.0,4T24,2024,4,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,1441847.0,4T24,2024,4,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1162396.0,4T24,2024,4,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,4T24,2024,4,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,0.0,4T24,2024,4,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,4T24,2024,4,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,198898.0,4T24,2024,4,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,3508314.0,4T24,2024,4,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1601417.0,4T24,2024,4,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-30435266.0,4T24,2024,4,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,2315628.0,4T24,2024,4,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,0.0,4T24,2024,4,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,2066023.0,4T24,2024,4,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-4334.0,4T24,2024,4,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5917.0,4T24,2024,4,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-34818500.0,4T24,2024,4,2,trimestral
+Assets,Ativo,ativo,Ativo,,25548690.0,1T25,2025,1,1,trimestral
+Current assets,Circulante,circulante,Ativo,,5960921.0,1T25,2025,1,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,460697.0,1T25,2025,1,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,1140429.0,1T25,2025,1,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,1T25,2025,1,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1690171.0,1T25,2025,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,0.0,1T25,2025,1,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,972554.0,1T25,2025,1,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,352017.0,1T25,2025,1,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,1T25,2025,1,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,231886.0,1T25,2025,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,0.0,1T25,2025,1,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,229694.0,1T25,2025,1,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,883473.0,1T25,2025,1,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,19587769.0,1T25,2025,1,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,22711.0,1T25,2025,1,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,0.0,1T25,2025,1,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,2998363.0,1T25,2025,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,1T25,2025,1,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,1T25,2025,1,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,36136.0,1T25,2025,1,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,1T25,2025,1,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,414411.0,1T25,2025,1,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,9856181.0,1T25,2025,1,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,1566110.0,1T25,2025,1,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,3126822.0,1T25,2025,1,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1567035.0,1T25,2025,1,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,25548692.0,1T25,2025,1,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,17021546.0,1T25,2025,1,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,732029.0,1T25,2025,1,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,29407.0,1T25,2025,1,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,4024232.0,1T25,2025,1,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,79419.0,1T25,2025,1,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,1T25,2025,1,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,3654476.0,1T25,2025,1,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,779711.0,1T25,2025,1,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,6369519.0,1T25,2025,1,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,537900.0,1T25,2025,1,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,17422.0,1T25,2025,1,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,62118.0,1T25,2025,1,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,33250.0,1T25,2025,1,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,32745.0,1T25,2025,1,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,1988.0,1T25,2025,1,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,452504.0,1T25,2025,1,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,300013.0,1T25,2025,1,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,36978275.0,1T25,2025,1,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,15137542.0,1T25,2025,1,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,1190995.0,1T25,2025,1,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,13643967.0,1T25,2025,1,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,1046911.0,1T25,2025,1,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,1T25,2025,1,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,779711.0,1T25,2025,1,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1501132.0,1T25,2025,1,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,1T25,2025,1,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,0.0,1T25,2025,1,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,1T25,2025,1,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,196710.0,1T25,2025,1,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2660530.0,1T25,2025,1,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,820777.0,1T25,2025,1,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-28451129.0,1T25,2025,1,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,5396568.0,1T25,2025,1,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,1843.0,1T25,2025,1,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,-686238.0,1T25,2025,1,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-4334.0,1T25,2025,1,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5917.0,1T25,2025,1,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-33164885.0,1T25,2025,1,1,trimestral
+Assets,Ativo,ativo,Ativo,,26897036.0,2T25,2025,2,1,trimestral
+Current assets,Circulante,circulante,Ativo,,7180123.0,2T25,2025,2,1,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,1458776.0,2T25,2025,2,1,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,1134294.0,2T25,2025,2,1,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,2T25,2025,2,1,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,1689331.0,2T25,2025,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,0.0,2T25,2025,2,1,trimestral
+  Inventories ,Estoques,estoques,Ativo,,988149.0,2T25,2025,2,1,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,329666.0,2T25,2025,2,1,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,2T25,2025,2,1,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,210806.0,2T25,2025,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,0.0,2T25,2025,2,1,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,257240.0,2T25,2025,2,1,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,1111861.0,2T25,2025,2,1,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,19716913.0,2T25,2025,2,1,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,0.0,2T25,2025,2,1,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,0.0,2T25,2025,2,1,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,3205682.0,2T25,2025,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,2T25,2025,2,1,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,2T25,2025,2,1,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,36136.0,2T25,2025,2,1,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,2T25,2025,2,1,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,480610.0,2T25,2025,2,1,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,9824282.0,2T25,2025,2,1,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,1684314.0,2T25,2025,2,1,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,2919389.0,2T25,2025,2,1,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1566500.0,2T25,2025,2,1,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,26897039.0,2T25,2025,2,1,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,21363683.0,2T25,2025,2,1,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,4961964.0,2T25,2025,2,1,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,30703.0,2T25,2025,2,1,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,4100641.0,2T25,2025,2,1,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,53139.0,2T25,2025,2,1,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,2T25,2025,2,1,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,3576935.0,2T25,2025,2,1,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,756199.0,2T25,2025,2,1,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,6530716.0,2T25,2025,2,1,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,563200.0,2T25,2025,2,1,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,6947.0,2T25,2025,2,1,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,60132.0,2T25,2025,2,1,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,36946.0,2T25,2025,2,1,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,0.0,2T25,2025,2,1,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,0.0,2T25,2025,2,1,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,500379.0,2T25,2025,2,1,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,185782.0,2T25,2025,2,1,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,31573810.0,2T25,2025,2,1,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,11827106.0,2T25,2025,2,1,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,641633.0,2T25,2025,2,1,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,12798433.0,2T25,2025,2,1,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,669155.0,2T25,2025,2,1,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,2T25,2025,2,1,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,756818.0,2T25,2025,2,1,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1370456.0,2T25,2025,2,1,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,2T25,2025,2,1,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,0.0,2T25,2025,2,1,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,2T25,2025,2,1,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,187132.0,2T25,2025,2,1,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2509346.0,2T25,2025,2,1,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,813731.0,2T25,2025,2,1,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-26040454.0,2T25,2025,2,1,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,7060825.0,2T25,2025,2,1,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,0.0,2T25,2025,2,1,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,-1405974.0,2T25,2025,2,1,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-4338.0,2T25,2025,2,1,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5917.0,2T25,2025,2,1,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-31696884.0,2T25,2025,2,1,trimestral
+Assets,Ativo,ativo,Ativo,,27626212.0,3T25,2025,3,2,trimestral
+Current assets,Circulante,circulante,Ativo,,7298786.0,3T25,2025,3,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,652579.0,3T25,2025,3,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,1112882.0,3T25,2025,3,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,3T25,2025,3,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,2647621.0,3T25,2025,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,0.0,3T25,2025,3,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,1022172.0,3T25,2025,3,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,414012.0,3T25,2025,3,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,3T25,2025,3,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,241038.0,3T25,2025,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,0.0,3T25,2025,3,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,327547.0,3T25,2025,3,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,880935.0,3T25,2025,3,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,20327426.0,3T25,2025,3,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,0.0,3T25,2025,3,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,0.0,3T25,2025,3,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,3968361.0,3T25,2025,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,3T25,2025,3,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,3T25,2025,3,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,46509.0,3T25,2025,3,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,3T25,2025,3,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,605410.0,3T25,2025,3,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,9504967.0,3T25,2025,3,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,1778034.0,3T25,2025,3,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,2877877.0,3T25,2025,3,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1546268.0,3T25,2025,3,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,27626213.0,3T25,2025,3,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,26828312.0,3T25,2025,3,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,11291848.0,3T25,2025,3,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,54401.0,3T25,2025,3,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3965367.0,3T25,2025,3,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,62949.0,3T25,2025,3,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,3T25,2025,3,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,3477568.0,3T25,2025,3,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,711465.0,3T25,2025,3,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,6006892.0,3T25,2025,3,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,610229.0,3T25,2025,3,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,14824.0,3T25,2025,3,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,74275.0,3T25,2025,3,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,31301.0,3T25,2025,3,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,0.0,3T25,2025,3,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,0.0,3T25,2025,3,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,405160.0,3T25,2025,3,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,122033.0,3T25,2025,3,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,28204640.0,3T25,2025,3,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,9034111.0,3T25,2025,3,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,495941.0,3T25,2025,3,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,12292977.0,3T25,2025,3,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,667996.0,3T25,2025,3,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,3T25,2025,3,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,733925.0,3T25,2025,3,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,1534773.0,3T25,2025,3,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,3T25,2025,3,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,0.0,3T25,2025,3,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,3T25,2025,3,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,200257.0,3T25,2025,3,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,2468168.0,3T25,2025,3,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,776492.0,3T25,2025,3,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-27406739.0,3T25,2025,3,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,7060825.0,3T25,2025,3,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,0.0,3T25,2025,3,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,-1406992.0,3T25,2025,3,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-3149.0,3T25,2025,3,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,5917.0,3T25,2025,3,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-33063340.0,3T25,2025,3,2,trimestral
+Assets,Ativo,ativo,Ativo,,23637911.0,4T25,2025,4,2,trimestral
+Current assets,Circulante,circulante,Ativo,,6303523.0,4T25,2025,4,2,trimestral
+  Cash and cash equivalents ,Caixa e equivalentes de caixa,caixa e equivalentes de caixa,Ativo,,991644.0,4T25,2025,4,2,trimestral
+  Short-term investments ,Aplicações financeiras,aplicacoes financeiras,Ativo,,26286.0,4T25,2025,4,2,trimestral
+  Restricted investments ,Aplicações financeiras vinculadas,aplicacoes financeiras vinculadas,Ativo,,0.0,4T25,2025,4,2,trimestral
+  Trade and other receivables ,"Contas a receber, líquido","contas a receber, liquido",Ativo,,2722742.0,4T25,2025,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,,0.0,4T25,2025,4,2,trimestral
+  Inventories ,Estoques,estoques,Ativo,,972532.0,4T25,2025,4,2,trimestral
+  Security deposits and maintenance reserves,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,,502085.0,4T25,2025,4,2,trimestral
+  Assets held for sale,Ativos disponíveis para a venda,ativos disponiveis para a venda,Ativo,,0.0,4T25,2025,4,2,trimestral
+  Taxes recoverable,Tributos a recuperar,tributos a recuperar,Ativo,,208354.0,4T25,2025,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,,0.0,4T25,2025,4,2,trimestral
+  Prepaid expenses,Despesas antecipadas,despesas antecipadas,Ativo,,371594.0,4T25,2025,4,2,trimestral
+  Other current assets,Outros ativos,outros ativos,Ativo,,508286.0,4T25,2025,4,2,trimestral
+Non-current assets,Ativo não circulante,ativo nao circulante,Ativo,Ativo não circulante,17334388.0,4T25,2025,4,2,trimestral
+  Long-term investments,Aplicações financeiras de longo prazo,aplicacoes financeiras de longo prazo,Ativo,Ativo não circulante,0.0,4T25,2025,4,2,trimestral
+Sublease receivables,Subarrendamento de aeronaves a receber,subarrendamento de aeronaves a receber,Ativo,Ativo não circulante,0.0,4T25,2025,4,2,trimestral
+  Security deposits and maintenance reserves ,Depósitos em garantia e reservas de manutenção,depositos em garantia e reservas de manutencao,Ativo,Ativo não circulante,2377624.0,4T25,2025,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Ativo,Ativo não circulante,0.0,4T25,2025,4,2,trimestral
+  Prepaid expenses ,Despesas antecipadas,despesas antecipadas,Ativo,Ativo não circulante,0.0,4T25,2025,4,2,trimestral
+  Taxes recoverable,Impostos a recuperar,impostos a recuperar,Ativo,Ativo não circulante,46509.0,4T25,2025,4,2,trimestral
+  Deferred income taxes,Impostos de renda diferido,impostos de renda diferido,Ativo,Ativo não circulante,0.0,4T25,2025,4,2,trimestral
+  Other non-current assets,Outros ativos,outros ativos,Ativo,Ativo não circulante,476932.0,4T25,2025,4,2,trimestral
+Right of use assets - leased aircraft and other assets,Direito de uso - arrendamentos,direito de uso - arrendamentos,Ativo,Ativo não circulante,8389109.0,4T25,2025,4,2,trimestral
+Right of use assets - maintenance of leased aircraft,Direito de uso - manutenção de aeronaves,direito de uso - manutencao de aeronaves,Ativo,Ativo não circulante,1735915.0,4T25,2025,4,2,trimestral
+  Property and equipment ,Imobilizado,imobilizado,Ativo,Ativo não circulante,2772299.0,4T25,2025,4,2,trimestral
+  Intangible assets ,Intangível,intangivel,Ativo,Ativo não circulante,1536000.0,4T25,2025,4,2,trimestral
+Liabilities and equity,Passivo,passivo,Passivo,,23637910.0,4T25,2025,4,2,trimestral
+Current liabilities,Passivo circulante,passivo circulante,Passivo,Passivo circulante,29473151.0,4T25,2025,4,2,trimestral
+  Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo circulante,13783259.0,4T25,2025,4,2,trimestral
+  Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo circulante,88996.0,4T25,2025,4,2,trimestral
+  Leases,Arrendamento,arrendamento,Passivo,Passivo circulante,3353501.0,4T25,2025,4,2,trimestral
+  Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo circulante,0.0,4T25,2025,4,2,trimestral
+  Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo circulante,0.0,4T25,2025,4,2,trimestral
+  Accounts payable,Fornecedores,fornecedores,Passivo,Passivo circulante,3915585.0,4T25,2025,4,2,trimestral
+ Airport Fees, Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo circulante,899605.0,4T25,2025,4,2,trimestral
+  Air traffic liability ,Transportes a executar,transportes a executar,Passivo,Passivo circulante,6240689.0,4T25,2025,4,2,trimestral
+"  Salaries, wages and benefits ","Salários, provisões e encargos sociais","salarios, provisoes e encargos sociais",Passivo,Passivo circulante,533713.0,4T25,2025,4,2,trimestral
+  Insurance premiums payable,Prêmios de seguros a pagar,premios de seguros a pagar,Passivo,Passivo circulante,15616.0,4T25,2025,4,2,trimestral
+  Taxes payable,Tributos a recolher,tributos a recolher,Passivo,Passivo circulante,111447.0,4T25,2025,4,2,trimestral
+  Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo circulante,32560.0,4T25,2025,4,2,trimestral
+  Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo circulante,0.0,4T25,2025,4,2,trimestral
+  Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo circulante,0.0,4T25,2025,4,2,trimestral
+  Provisions,Provisões,provisoes,Passivo,Passivo circulante,374141.0,4T25,2025,4,2,trimestral
+  Other current liabilities,Outros passivos circulantes,outros passivos circulantes,Passivo,Passivo circulante,124039.0,4T25,2025,4,2,trimestral
+Non-current liabilities,Não circulante,nao circulante,Passivo,Passivo não circulante,23202825.0,4T25,2025,4,2,trimestral
+Loans and financing,Empréstimos e financiamentos,emprestimos e financiamentos,Passivo,Passivo não circulante,9276345.0,4T25,2025,4,2,trimestral
+Convertible instruments,Instrumentos conversíveis,instrumentos conversiveis,Passivo,Passivo não circulante,308370.0,4T25,2025,4,2,trimestral
+Leases,Arrendamento,arrendamento,Passivo,Passivo não circulante,9178705.0,4T25,2025,4,2,trimestral
+Lease notes,Arrendamento - Notes,arrendamento - notes,Passivo,Passivo não circulante,178857.0,4T25,2025,4,2,trimestral
+Lease equity,Arrendamento - Equity,arrendamento - equity,Passivo,Passivo não circulante,0.0,4T25,2025,4,2,trimestral
+Airport Fees,Tarifas aeroportuárias,tarifas aeroportuarias,Passivo,Passivo não circulante,711032.0,4T25,2025,4,2,trimestral
+Accounts payable,Fornecedores,fornecedores,Passivo,Passivo não circulante,948543.0,4T25,2025,4,2,trimestral
+Reimbursement to clients,Reembolso a clientes,reembolso a clientes,Passivo,Passivo não circulante,0.0,4T25,2025,4,2,trimestral
+Derivative financial instruments,Instrumentos financeiros derivativos,instrumentos financeiros derivativos,Passivo,Passivo não circulante,0.0,4T25,2025,4,2,trimestral
+Deferred income taxes,Imposto de renda e contribuição social diferidos,imposto de renda e contribuicao social diferidos,Passivo,Passivo não circulante,0.0,4T25,2025,4,2,trimestral
+Federal tax installment payment program,Programa de recuperação fiscal,programa de recuperacao fiscal,Passivo,Passivo não circulante,193581.0,4T25,2025,4,2,trimestral
+Provision,Provisões,provisoes,Passivo,Passivo não circulante,1400534.0,4T25,2025,4,2,trimestral
+Other non-current liabilities,Outros passivos não circulantes,outros passivos nao circulantes,Passivo,Passivo não circulante,1006858.0,4T25,2025,4,2,trimestral
+Equity,Patrimônio líquido,patrimonio liquido,Patrimônio Líquido,Patrimônio Líquido,-29038066.0,4T25,2025,4,2,trimestral
+ Issued capital ,Capital social,capital social,Patrimônio Líquido,Patrimônio Líquido,7060825.0,4T25,2025,4,2,trimestral
+Advance for future capital increase,Adiantamentos para aumento de capital,adiantamentos para aumento de capital,Patrimônio Líquido,Patrimônio Líquido,0.0,4T25,2025,4,2,trimestral
+ Capital reserve ,Reserva de capital,reserva de capital,Patrimônio Líquido,Patrimônio Líquido,-1408719.0,4T25,2025,4,2,trimestral
+ Treasury shares,Ações em tesouraria,acoes em tesouraria,Patrimônio Líquido,Patrimônio Líquido,-1432.0,4T25,2025,4,2,trimestral
+ Accumulated other comprehensive income (loss) ,Outros resultados abrangentes,outros resultados abrangentes,Patrimônio Líquido,Patrimônio Líquido,4903.0,4T25,2025,4,2,trimestral
+ Accumulated losses,Prejuízo acumulado,prejuizo acumulado,Patrimônio Líquido,Patrimônio Líquido,-34693643.0,4T25,2025,4,2,trimestral

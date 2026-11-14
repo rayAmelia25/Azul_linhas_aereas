@@ -1,31 +1,39 @@
-import pandas as pd
+
 import re
 from pathlib import Path
 
+import pandas as pd
 
-# ==========================================
+
+# ==================================================
 # 1. CONFIGURAÇÕES
-# ==========================================
+# ==================================================
 
-caminho_arquivo = "data/original/Azul Fundamentos e Planilha 2T26.xlsx"
+caminho_arquivo = Path(
+    "data/original/Azul Fundamentos e Planilha 2T26.xlsx"
+)
 
-# Nome da aba analisada
 nome_aba = "DRE | Income Statement"
 
-# Nome utilizado nos arquivos gerados
-nome_base = "balanco"
+# IMPORTANTE: este arquivo é da DRE, não do balanço.
+nome_base = "dre"
 
-# Períodos desejados
 anos_desejados = ["2021", "2022", "2023", "2024", "2025"]
 
-# Colunas dos nomes dos indicadores na planilha original
 COLUNA_INDICADOR_EN = 1
 COLUNA_INDICADOR_PT = 2
 
+pasta_tratados = Path("data/tratados")
 
-# ==========================================
-# 2. LEITURA DA PLANILHA
-# ==========================================
+
+# ==================================================
+# 2. LER A PLANILHA ORIGINAL
+# ==================================================
+
+if not caminho_arquivo.exists():
+    raise FileNotFoundError(
+        f"Arquivo original não encontrado: {caminho_arquivo}"
+    )
 
 df = pd.read_excel(
     caminho_arquivo,
@@ -33,39 +41,39 @@ df = pd.read_excel(
     header=None
 )
 
-print(f"Aba lida com sucesso: {nome_aba}")
+print(f"Aba lida: {nome_aba}")
 print(f"Dimensões da planilha: {df.shape}")
 
 
-# ==========================================
+# ==================================================
 # 3. IDENTIFICAR A LINHA DOS PERÍODOS
-# ==========================================
+# ==================================================
+
+padrao_trimestre = re.compile(
+    r"([1-4]T(?:21|22|23|24|25))"
+)
+
+padrao_ano = re.compile(
+    r"(2021|2022|2023|2024|2025)"
+)
 
 linha_periodos = None
-
-padrao_ano = r"(2021|2022|2023|2024|2025)"
-padrao_trimestre = r"[1-4]T(?:21|22|23|24|25)"
 
 for indice, linha in df.iterrows():
 
     valores = linha.fillna("").astype(str).tolist()
 
-    quantidade_anos = 0
-    quantidade_trimestres = 0
+    qtd_trimestres = sum(
+        bool(padrao_trimestre.search(valor.strip()))
+        for valor in valores
+    )
 
-    for valor in valores:
+    qtd_anos = sum(
+        bool(padrao_ano.search(valor.strip()))
+        for valor in valores
+    )
 
-        valor = valor.strip()
-
-        if re.search(padrao_ano, valor):
-            quantidade_anos += 1
-
-        if re.search(padrao_trimestre, valor):
-            quantidade_trimestres += 1
-
-    # A linha de períodos deve conter vários anos
-    # ou vários trimestres
-    if quantidade_anos >= 3 or quantidade_trimestres >= 3:
+    if qtd_trimestres >= 3 or qtd_anos >= 3:
         linha_periodos = indice
         break
 
@@ -74,12 +82,12 @@ if linha_periodos is None:
         "Não foi possível identificar a linha dos períodos."
     )
 
-print(f"Linha dos períodos identificada: {linha_periodos}")
+print(f"Linha dos períodos: {linha_periodos}")
 
 
-# ==========================================
-# 4. IDENTIFICAR AS COLUNAS DOS PERÍODOS
-# ==========================================
+# ==================================================
+# 4. IDENTIFICAR AS COLUNAS ANUAIS E TRIMESTRAIS
+# ==================================================
 
 colunas_anuais = {}
 colunas_trimestrais = {}
@@ -88,41 +96,18 @@ for coluna, valor in df.iloc[linha_periodos].items():
 
     periodo = str(valor).strip()
 
-    # Identificar trimestres
-    trimestre_encontrado = re.search(
-        r"([1-4]T(?:21|22|23|24|25))",
-        periodo
-    )
+    trimestre_encontrado = padrao_trimestre.search(periodo)
 
     if trimestre_encontrado:
-
         trimestre = trimestre_encontrado.group(1)
         colunas_trimestrais[trimestre] = coluna
-
         continue
 
-    # Identificar anos, mesmo com números sobrescritos
-    ano_encontrado = re.search(
-        r"(2021|2022|2023|2024|2025)",
-        periodo
-    )
+    ano_encontrado = padrao_ano.search(periodo)
 
     if ano_encontrado:
-
         ano = ano_encontrado.group(1)
         colunas_anuais[ano] = coluna
-
-
-print("\nColunas anuais identificadas:")
-print(colunas_anuais)
-
-print("\nColunas trimestrais identificadas:")
-print(colunas_trimestrais)
-
-
-# ==========================================
-# 5. DEFINIR A ORDEM DOS TRIMESTRES
-# ==========================================
 
 ordem_trimestres = [
     f"{trimestre}T{ano}"
@@ -131,41 +116,40 @@ ordem_trimestres = [
 ]
 
 trimestres_encontrados = [
-    trimestre
-    for trimestre in ordem_trimestres
-    if trimestre in colunas_trimestrais
+    periodo
+    for periodo in ordem_trimestres
+    if periodo in colunas_trimestrais
 ]
 
+anos_encontrados = [
+    ano
+    for ano in anos_desejados
+    if ano in colunas_anuais
+]
 
-# ==========================================
+print("\nTrimestres identificados:")
+print(trimestres_encontrados)
+
+print("\nAnos identificados:")
+print(anos_encontrados)
+
+
+# ==================================================
+# 5. PREPARAR OS NOMES DOS INDICADORES
+# ==================================================
+
+df["indicador_en"] = df.iloc[:, COLUNA_INDICADOR_EN]
+df["indicador_pt"] = df.iloc[:, COLUNA_INDICADOR_PT]
+
+
+# ==================================================
 # 6. FUNÇÕES AUXILIARES
-# ==========================================
+# ==================================================
 
-def obter_texto_indicador(linha):
-
-    indicador_en = linha.iloc[COLUNA_INDICADOR_EN]
-    indicador_pt = linha.iloc[COLUNA_INDICADOR_PT]
-
-    if pd.isna(indicador_pt):
-        indicador_pt = ""
-
-    if pd.isna(indicador_en):
-        indicador_en = ""
-
-    return (
-        str(indicador_en).strip(),
-        str(indicador_pt).strip()
-    )
-
-
-def possui_valor_numerico(linha, colunas_periodos):
-
-    valores = pd.to_numeric(
-        linha[colunas_periodos],
-        errors="coerce"
-    )
-
-    return valores.notna().any()
+def texto_indicador(valor):
+    if pd.isna(valor):
+        return ""
+    return str(valor).strip()
 
 
 def texto_valido_para_categoria(texto):
@@ -173,11 +157,9 @@ def texto_valido_para_categoria(texto):
     if not texto or texto.lower() == "nan":
         return False
 
-    # Evitar textos muito longos, que geralmente são observações
     if len(texto) > 80:
         return False
 
-    # Evitar frases com características de observação
     sinais_de_observacao = [
         ". ",
         " conforme ",
@@ -189,18 +171,17 @@ def texto_valido_para_categoria(texto):
         " foram ajustados "
     ]
 
-    texto_minusculo = texto.lower()
+    texto_lower = texto.lower()
 
-    for sinal in sinais_de_observacao:
-        if sinal in texto_minusculo:
-            return False
-
-    return True
+    return not any(
+        sinal in texto_lower
+        for sinal in sinais_de_observacao
+    )
 
 
 def eh_grupo_principal(texto):
 
-    texto_minusculo = texto.lower()
+    texto_lower = texto.lower()
 
     palavras_de_grupo = [
         "operating revenue",
@@ -222,12 +203,36 @@ def eh_grupo_principal(texto):
     ]
 
     return any(
-        palavra in texto_minusculo
+        palavra in texto_lower
         for palavra in palavras_de_grupo
     )
 
 
+def converter_numero(valor):
+    """
+    Converte números sem aplicar escalas ou multiplicadores.
+    Valores numéricos do Excel são mantidos em sua escala original.
+    """
+
+    if pd.isna(valor):
+        return float("nan")
+
+    if isinstance(valor, str):
+        valor = valor.strip()
+
+        if not valor:
+            return float("nan")
+
+        # Formatos contábeis com parênteses: (1234) = -1234
+        if valor.startswith("(") and valor.endswith(")"):
+            valor = "-" + valor[1:-1]
+
+    return pd.to_numeric(valor, errors="coerce")
+
+
 def identificar_categorias(base, colunas_periodos):
+
+    base = base.copy()
 
     grupo_atual = ""
     subgrupo_atual = ""
@@ -238,22 +243,17 @@ def identificar_categorias(base, colunas_periodos):
 
     for _, linha in base.iterrows():
 
-        indicador_en, indicador_pt = obter_texto_indicador(linha)
+        indicador_en = texto_indicador(linha["indicador_en"])
+        indicador_pt = texto_indicador(linha["indicador_pt"])
 
-        # Preferir o nome em português
-        texto_principal = indicador_pt
+        texto_principal = indicador_pt or indicador_en
 
-        if not texto_principal:
-            texto_principal = indicador_en
-
-        tem_valor = possui_valor_numerico(
-            linha,
-            colunas_periodos
+        valores = pd.to_numeric(
+            linha[colunas_periodos],
+            errors="coerce"
         )
 
-        # ------------------------------------------
-        # Linhas que possuem valores financeiros
-        # ------------------------------------------
+        tem_valor = valores.notna().any()
 
         if tem_valor:
 
@@ -261,112 +261,115 @@ def identificar_categorias(base, colunas_periodos):
             subgrupos.append(subgrupo_atual)
             indicadores_validos.append(True)
 
-        # ------------------------------------------
-        # Linhas sem valores: possíveis categorias
-        # ------------------------------------------
-
         else:
 
-            eh_categoria = texto_valido_para_categoria(
-                texto_principal
-            )
-
-            if eh_categoria:
+            if texto_valido_para_categoria(texto_principal):
 
                 if eh_grupo_principal(texto_principal):
-
                     grupo_atual = texto_principal
                     subgrupo_atual = ""
 
+                elif grupo_atual:
+                    subgrupo_atual = texto_principal
+
                 else:
-
-                    # Caso já exista um grupo, considerar
-                    # o novo título como subgrupo
-                    if grupo_atual:
-                        subgrupo_atual = texto_principal
-
-                    else:
-                        grupo_atual = texto_principal
+                    grupo_atual = texto_principal
 
             grupos.append("")
             subgrupos.append("")
             indicadores_validos.append(False)
 
-    base = base.copy()
-
     base["grupo"] = grupos
     base["subgrupo"] = subgrupos
     base["_indicador_valido"] = indicadores_validos
 
-    # Manter somente as linhas que possuem valores financeiros
     base = base[
         base["_indicador_valido"]
     ].copy()
 
-    base = base.drop(
-        columns=["_indicador_valido"]
-    )
-
-    return base
+    return base.drop(columns=["_indicador_valido"])
 
 
 def limpar_base(base, colunas_periodos):
 
-    # Remover linhas sem nome de indicador
+    base = base.copy()
+
+    # Remover indicadores sem nome em português.
     base = base[
         base["indicador_pt"].notna()
         & (
             base["indicador_pt"]
             .astype(str)
             .str.strip()
-            != ""
+            .ne("")
         )
     ].copy()
 
-    # Converter os valores dos períodos para números
+    # Converter os períodos para números.
     for coluna in colunas_periodos:
+        base[coluna] = base[coluna].map(converter_numero)
 
-        base[coluna] = pd.to_numeric(
-            base[coluna],
-            errors="coerce"
-        )
-
-    # Remover linhas que não possuem nenhum valor numérico
+    # Remover linhas sem valores financeiros.
     base = base[
-        base[colunas_periodos]
-        .notna()
-        .any(axis=1)
+        base[colunas_periodos].notna().any(axis=1)
     ].copy()
 
-    # Organizar as colunas
-    colunas_organizadas = [
+    colunas_finais = [
         "grupo",
         "subgrupo",
         "indicador_en",
         "indicador_pt"
     ] + colunas_periodos
 
-    base = base[colunas_organizadas]
+    base = base[colunas_finais]
 
-    # Reiniciar os índices
-    base = base.reset_index(drop=True)
-
-    return base
+    return base.reset_index(drop=True)
 
 
-# ==========================================
-# 7. PREPARAR OS NOMES DOS INDICADORES
-# ==========================================
+# ==================================================
+# 7. VERIFICAR O EBITDA NA PLANILHA ORIGINAL
+# ==================================================
 
-df["indicador_en"] = df.iloc[:, COLUNA_INDICADOR_EN]
-df["indicador_pt"] = df.iloc[:, COLUNA_INDICADOR_PT]
+print("\n" + "=" * 55)
+print("VERIFICAÇÃO DO EBITDA NA PLANILHA ORIGINAL")
+print("=" * 55)
+
+indicadores_en = (
+    df["indicador_en"].fillna("").astype(str).str.strip().str.lower()
+)
+
+indicadores_pt = (
+    df["indicador_pt"].fillna("").astype(str).str.strip().str.lower()
+)
+
+mascara_ebitda = (
+    indicadores_en.eq("ebitda")
+    | indicadores_pt.eq("ebitda")
+)
+
+linhas_ebitda = df.loc[mascara_ebitda]
+
+if linhas_ebitda.empty:
+
+    print("ATENÇÃO: EBITDA não encontrado na planilha original.")
+
+else:
+
+    for indice, linha in linhas_ebitda.iterrows():
+
+        print(f"\nLinha original do Excel (índice {indice}):")
+
+        for periodo in trimestres_encontrados:
+
+            coluna_excel = colunas_trimestrais[periodo]
+            valor_original = linha.iloc[coluna_excel]
+
+            print(f"{periodo}: {valor_original!r}")
 
 
-# ==========================================
+# ==================================================
 # 8. CRIAR A PASTA DE DESTINO
-# ==========================================
-
-pasta_tratados = Path("data/tratados")
+# ==================================================
 
 pasta_tratados.mkdir(
     parents=True,
@@ -374,28 +377,22 @@ pasta_tratados.mkdir(
 )
 
 
-# ==========================================
+# ==================================================
 # 9. CRIAR A BASE ANUAL
-# ==========================================
+# ==================================================
 
 base_anual = None
 
-anos_encontrados = [
-    ano
-    for ano in anos_desejados
-    if ano in colunas_anuais
-]
-
 if anos_encontrados:
 
-    colunas_anuais_selecionadas = [
+    colunas_selecionadas = [
         colunas_anuais[ano]
         for ano in anos_encontrados
     ]
 
     base_anual = df[
         ["indicador_en", "indicador_pt"]
-        + colunas_anuais_selecionadas
+        + colunas_selecionadas
     ].copy()
 
     base_anual.columns = (
@@ -403,44 +400,38 @@ if anos_encontrados:
         + anos_encontrados
     )
 
-    # Identificar grupos e subgrupos
     base_anual = identificar_categorias(
         base_anual,
         anos_encontrados
     )
 
-    # Limpar a base
     base_anual = limpar_base(
         base_anual,
         anos_encontrados
     )
 
-    print("\nBase anual preparada com sucesso.")
+    print("\nBase anual preparada.")
 
 else:
-
-    print(
-        "\nNenhum período anual encontrado. "
-        "A base anual não será criada."
-    )
+    print("\nNenhuma coluna anual encontrada.")
 
 
-# ==========================================
+# ==================================================
 # 10. CRIAR A BASE TRIMESTRAL
-# ==========================================
+# ==================================================
 
 base_trimestral = None
 
 if trimestres_encontrados:
 
-    colunas_trimestrais_selecionadas = [
-        colunas_trimestrais[trimestre]
-        for trimestre in trimestres_encontrados
+    colunas_selecionadas = [
+        colunas_trimestrais[periodo]
+        for periodo in trimestres_encontrados
     ]
 
     base_trimestral = df[
         ["indicador_en", "indicador_pt"]
-        + colunas_trimestrais_selecionadas
+        + colunas_selecionadas
     ].copy()
 
     base_trimestral.columns = (
@@ -448,31 +439,86 @@ if trimestres_encontrados:
         + trimestres_encontrados
     )
 
-    # Identificar grupos e subgrupos
     base_trimestral = identificar_categorias(
         base_trimestral,
         trimestres_encontrados
     )
 
-    # Limpar a base
     base_trimestral = limpar_base(
         base_trimestral,
         trimestres_encontrados
     )
 
-    print("Base trimestral preparada com sucesso.")
+    print("Base trimestral preparada.")
 
 else:
+    print("Nenhuma coluna trimestral encontrada.")
 
-    print(
-        "Nenhum período trimestral encontrado. "
-        "A base trimestral não será criada."
+
+# ==================================================
+# 11. VALIDAR O EBITDA NA BASE TRATADA
+# ==================================================
+
+if base_trimestral is not None:
+
+    mascara_ebitda = (
+        base_trimestral["indicador_pt"]
+        .astype(str)
+        .str.strip()
+        .str.lower()
+        .eq("ebitda")
     )
 
+    ebitda_tratado = base_trimestral.loc[mascara_ebitda]
 
-# ==========================================
-# 11. SALVAR OS ARQUIVOS
-# ==========================================
+    print("\n" + "=" * 55)
+    print("EBITDA NA BASE TRATADA")
+    print("=" * 55)
+
+    if ebitda_tratado.empty:
+
+        print("ATENÇÃO: EBITDA não encontrado na base tratada.")
+
+    else:
+
+        for _, linha in ebitda_tratado.iterrows():
+
+            for periodo in trimestres_encontrados:
+                print(f"{periodo}: {linha[periodo]!r}")
+
+        # Comparar o valor original com o tratado em 3T25.
+        periodo = "3T25"
+
+        if periodo in colunas_trimestrais:
+
+            coluna_excel = colunas_trimestrais[periodo]
+
+            for _, linha_original in linhas_ebitda.iterrows():
+
+                valor_original = converter_numero(
+                    linha_original.iloc[coluna_excel]
+                )
+
+                valor_tratado = ebitda_tratado.iloc[0][periodo]
+
+                print(f"\nComparação de {periodo}:")
+                print(f"Valor original lido: {valor_original!r}")
+                print(f"Valor tratado:       {valor_tratado!r}")
+
+                if pd.notna(valor_original) and pd.notna(valor_tratado):
+
+                    if abs(valor_original - valor_tratado) > 0.01:
+                        print(
+                            "ATENÇÃO: os valores são diferentes. "
+                            "Investigue antes de usar os dados."
+                        )
+                    else:
+                        print("Os valores conferem.")
+
+
+# ==================================================
+# 12. SALVAR OS ARQUIVOS CSV
+# ==================================================
 
 arquivo_anual = (
     pasta_tratados
@@ -484,8 +530,6 @@ arquivo_trimestral = (
     / f"{nome_base}_trimestral_2021_2025.csv"
 )
 
-
-# Salvar ou remover o arquivo anual
 if base_anual is not None:
 
     base_anual.to_csv(
@@ -494,16 +538,13 @@ if base_anual is not None:
         encoding="utf-8-sig"
     )
 
-    print(f"Arquivo anual salvo em: {arquivo_anual}")
+    print(f"\nArquivo anual salvo: {arquivo_anual}")
 
-else:
+elif arquivo_anual.exists():
 
-    if arquivo_anual.exists():
-        arquivo_anual.unlink()
-        print("Arquivo anual antigo removido.")
+    arquivo_anual.unlink()
+    print("Arquivo anual antigo removido.")
 
-
-# Salvar ou remover o arquivo trimestral
 if base_trimestral is not None:
 
     base_trimestral.to_csv(
@@ -512,32 +553,26 @@ if base_trimestral is not None:
         encoding="utf-8-sig"
     )
 
-    print(
-        f"Arquivo trimestral salvo em: "
-        f"{arquivo_trimestral}"
-    )
+    print(f"Arquivo trimestral salvo: {arquivo_trimestral}")
 
-else:
+elif arquivo_trimestral.exists():
 
-    if arquivo_trimestral.exists():
-        arquivo_trimestral.unlink()
-        print("Arquivo trimestral antigo removido.")
+    arquivo_trimestral.unlink()
+    print("Arquivo trimestral antigo removido.")
 
 
-# ==========================================
-# 12. RESULTADO FINAL
-# ==========================================
+# ==================================================
+# 13. RESUMO FINAL
+# ==================================================
 
-print("\nProcessamento concluído!")
+print("\n" + "=" * 55)
+print("PROCESSAMENTO CONCLUÍDO")
+print("=" * 55)
 
 if base_anual is not None:
-    print(
-        f"Linhas na base anual: "
-        f"{len(base_anual)}"
-    )
+    print(f"Linhas na base anual: {len(base_anual)}")
 
 if base_trimestral is not None:
-    print(
-        f"Linhas na base trimestral: "
-        f"{len(base_trimestral)}"
-    )
+    print(f"Linhas na base trimestral: {len(base_trimestral)}")
+
+print(f"Pasta de saída: {pasta_tratados.resolve()}")
